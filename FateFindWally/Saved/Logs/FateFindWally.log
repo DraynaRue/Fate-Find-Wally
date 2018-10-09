@@ -2720,3 +2720,1232 @@ LogInit: Object subsystem initialized
 [2018.10.09-15.15.09:770][312]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2018.10.09-15.15.10:738][395]LogSlate: Window 'Message Log' being destroyed
 [2018.10.09-15.15.10:740][395]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-15.18.14:943][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow5)
+[2018.10.09-15.18.16:903][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow5)
+[2018.10.09-15.18.22:014][949]Cmd: EDIT COPY
+[2018.10.09-15.18.22:290][982]Cmd: EDIT PASTE
+[2018.10.09-15.18.37:858][819]Cmd: EDIT COPY
+[2018.10.09-15.18.38:100][843]Cmd: EDIT PASTE
+[2018.10.09-15.18.54:072][656]Cmd: EDCALLBACK SURFPROPS
+[2018.10.09-15.18.58:207][134]Cmd: EDIT COPY
+[2018.10.09-15.18.58:471][165]Cmd: EDIT PASTE
+[2018.10.09-15.19.02:801][655]Cmd: EDIT COPY
+[2018.10.09-15.19.03:010][680]Cmd: EDIT PASTE
+[2018.10.09-15.19.08:812][342]Cmd: EDIT COPY
+[2018.10.09-15.19.09:025][367]Cmd: EDIT PASTE
+[2018.10.09-15.19.14:945][ 30]Cmd: TRANSACTION UNDO
+[2018.10.09-15.19.14:945][ 30]LogEditorTransaction: Undo Move Actors
+[2018.10.09-15.19.14:983][ 30]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush67.BrushComponent0) Component already registered.
+[2018.10.09-15.19.14:984][ 30]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush70.BrushComponent0) Component already registered.
+[2018.10.09-15.19.14:990][ 30]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush78.BrushComponent0) Component already registered.
+[2018.10.09-15.19.14:990][ 30]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush81.BrushComponent0) Component already registered.
+[2018.10.09-15.19.14:991][ 30]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush72.BrushComponent0) Component already registered.
+[2018.10.09-15.19.14:991][ 30]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush75.BrushComponent0) Component already registered.
+[2018.10.09-15.19.15:859][124]Cmd: TRANSACTION UNDO
+[2018.10.09-15.19.15:859][124]LogEditorTransaction: Undo Paste
+[2018.10.09-15.19.15:900][124]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush36.BrushComponent0) Component already registered.
+[2018.10.09-15.19.15:900][124]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush42_8.BrushComponent0) Component already registered.
+[2018.10.09-15.19.15:901][124]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush48_60.BrushComponent0) Component already registered.
+[2018.10.09-15.19.16:837][232]Cmd: TRANSACTION UNDO
+[2018.10.09-15.19.16:837][232]LogEditorTransaction: Undo Move Actors
+[2018.10.09-15.19.18:253][393]Cmd: TRANSACTION REDO
+[2018.10.09-15.19.18:253][393]LogEditorTransaction: Redo Move Actors
+[2018.10.09-15.19.19:085][484]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.19.19:509][484]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap8AB7914A4F4F2787EAD5CE82FF760397.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.19.19:990][484]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData317D060B44FC72279D0B6FA010D7AFB5.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.19.29:013][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow52)
+[2018.10.09-15.19.33:514][992]Cmd: EDIT COPY
+[2018.10.09-15.19.33:758][ 21]Cmd: EDIT PASTE
+[2018.10.09-15.19.41:905][919]Cmd: EDIT COPY
+[2018.10.09-15.19.42:126][945]Cmd: EDIT PASTE
+[2018.10.09-15.19.46:931][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.19.47:304][481]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap52FDFD74432C3F203918568C161B62C4.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.19.47:750][481]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData2403E0EF42C30C1E17980E9A5350991B.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.20.58:505][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.20.58:875][862]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap21EE890543E7CBF45AF059B69D6590C7.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.20.59:314][862]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData2BB58E7D4BE60B1E1A9DFB9CAB468D4C.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.21.11:352][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow32)
+[2018.10.09-15.21.30:926][552]Cmd: EDIT COPY
+[2018.10.09-15.21.31:249][590]Cmd: EDIT PASTE
+[2018.10.09-15.21.49:112][569]Cmd: EDIT COPY
+[2018.10.09-15.21.49:352][597]Cmd: EDIT PASTE
+[2018.10.09-15.22.02:918][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.22.03:321][ 74]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap7298861943C219953773CAAEC246C72E.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.22.03:772][ 74]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataC473FB2C4F601525D9F9F5A906718F5A.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.22.08:536][607]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2018.10.09-15.22.10:198][801]Cmd: EDIT COPY
+[2018.10.09-15.22.10:442][830]Cmd: EDIT PASTE
+[2018.10.09-15.22.21:138][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound34)
+[2018.10.09-15.22.24:121][378]Cmd: POLY SELECT ADJACENT WALLS
+[2018.10.09-15.22.26:938][716]Cmd: POLY SELECT ALL
+[2018.10.09-15.22.32:180][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow31)
+[2018.10.09-15.22.41:051][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.09-15.22.54:762][895]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2018.10.09-15.23.00:430][569]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.23.03:094][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.23.03:255][905]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.23.03:698][957]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.23.05:615][185]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.23.17:329][546]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.23.20:520][927]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.23.22:662][177]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.23.29:959][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.23.30:333][ 42]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMapE45515894AF285B954AF46A0AE00F5AD.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.23.30:778][ 42]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData168857B44621853ABE3CF6AD90330E5A.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.23.37:540][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound34)
+[2018.10.09-15.24.07:685][165]Cmd: EDIT COPY
+[2018.10.09-15.24.07:933][194]Cmd: EDIT PASTE
+[2018.10.09-15.24.23:407][965]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.24.23:804][965]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap0C0F32AC49287B5EF9F63FA5E7DD0440.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.24.24:271][965]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataF2BD82B64FF4E8255349608B997B02F1.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.24.27:309][309]Cmd: EDIT COPY
+[2018.10.09-15.24.31:082][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound52)
+[2018.10.09-15.24.55:817][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair38)
+[2018.10.09-15.25.29:125][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair14)
+[2018.10.09-15.26.02:375][840]Cmd: EDIT COPY
+[2018.10.09-15.26.02:604][866]Cmd: EDIT PASTE
+[2018.10.09-15.26.10:658][787]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.26.11:084][787]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMapCD83A5754BEB43C961F50D986DC9AB7F.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.26.11:546][787]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData810E3AB24656B959DB64E893253B5706.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.26.22:476][ 11]Cmd: EDIT COPY
+[2018.10.09-15.26.22:743][ 42]Cmd: EDIT PASTE
+[2018.10.09-15.26.37:235][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door4)
+[2018.10.09-15.26.39:987][935]Cmd: EDIT COPY
+[2018.10.09-15.26.40:206][961]Cmd: EDIT PASTE
+[2018.10.09-15.26.52:807][269]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.26.53:250][269]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap04C721FF4C0CC989B041BA94D52F94A8.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.26.53:697][269]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData82CF51364DC0C445C6A273B33797F7F2.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.27.15:413][810]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.10.09-15.27.16:186][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.27.16:596][887]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMapCE358BEA480AF64DD36471821349BA44.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.27.17:038][887]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataB8CAA97D4315BBEA97591DA066D05706.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.27.39:197][357]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush15)
+[2018.10.09-15.27.41:749][643]Cmd: EDIT COPY
+[2018.10.09-15.27.42:029][671]Cmd: EDIT PASTE
+[2018.10.09-15.27.53:748][976]Cmd: EDIT COPY
+[2018.10.09-15.27.53:989][  4]Cmd: EDIT PASTE
+[2018.10.09-15.29.10:436][929]Cmd: EDIT COPY
+[2018.10.09-15.29.10:646][954]Cmd: EDIT PASTE
+[2018.10.09-15.29.31:147][248]Cmd: EDIT COPY
+[2018.10.09-15.29.31:381][275]Cmd: EDIT PASTE
+[2018.10.09-15.29.41:520][361]Cmd: EDIT COPY
+[2018.10.09-15.29.41:734][386]Cmd: EDIT PASTE
+[2018.10.09-15.30.06:804][241]Cmd: EDIT COPY
+[2018.10.09-15.30.07:053][270]Cmd: EDIT PASTE
+[2018.10.09-15.30.19:651][714]Cmd: TRANSACTION UNDO
+[2018.10.09-15.30.19:651][714]LogEditorTransaction: Undo Move Actors
+[2018.10.09-15.30.19:688][714]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush61.BrushComponent0) Component already registered.
+[2018.10.09-15.30.19:690][714]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush21.BrushComponent0) Component already registered.
+[2018.10.09-15.30.19:695][714]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush39.BrushComponent0) Component already registered.
+[2018.10.09-15.30.19:696][714]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush79.BrushComponent0) Component already registered.
+[2018.10.09-15.30.20:137][742]Cmd: TRANSACTION UNDO
+[2018.10.09-15.30.20:137][742]LogEditorTransaction: Undo Paste
+[2018.10.09-15.30.20:177][742]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush75.BrushComponent0) Component already registered.
+[2018.10.09-15.30.20:178][742]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush84.BrushComponent0) Component already registered.
+[2018.10.09-15.30.20:179][742]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2018.10.09-15.30.20:183][742]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2018.10.09-15.30.20:184][742]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2018.10.09-15.30.20:185][742]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush95.BrushComponent0) Component already registered.
+[2018.10.09-15.30.31:720][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.30.32:244][ 54]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap2593D9DB42946AD8FAE7DF95EB8257B9.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.30.32:718][ 54]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData0FB950714C5EC8AD749D799C8D3CB87D.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.31.01:619][429]Cmd: EDIT COPY
+[2018.10.09-15.31.01:853][456]Cmd: EDIT PASTE
+[2018.10.09-15.31.25:188][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.31.25:651][ 72]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap6EDD29D7447FAA79D9C418A3E6E01318.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.31.26:091][ 72]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataF695683548BF20D6C61733950ABEDDAB.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.31.26:607][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.31.26:707][128]MapCheck: New page: Map Check
+[2018.10.09-15.31.26:719][128]Cmd: MAP REBUILD ALLVISIBLE
+[2018.10.09-15.31.26:719][128]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.10.09-15.31.27:029][128]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterialOverride, compiling. 
+[2018.10.09-15.31.27:033][128]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-15.31.27:033][128]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.10.09-15.31.27:039][128]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.10.09-15.31.27:046][128]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.09-15.31.27:046][128]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-15.31.27:046][128]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.10.09-15.31.27:052][128]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.10.09-15.31.27:058][128]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.10.09-15.31.27:064][128]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2018.10.09-15.31.27:071][128]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.10.09-15.31.27:076][128]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.09-15.31.27:077][128]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Bush, compiling. 
+[2018.10.09-15.31.27:083][128]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.10.09-15.31.27:089][128]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.10.09-15.31.27:096][128]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.10.09-15.31.27:106][128]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2018.10.09-15.31.27:115][128]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.10.09-15.31.28:161][128]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.09-15.31.28:161][128]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.09-15.31.28:161][128]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.09-15.31.28:161][128]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.09-15.31.28:161][128]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.09-15.31.28:161][128]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.09-15.31.28:161][128]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.09-15.31.28:161][128]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.09-15.31.28:161][128]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.09-15.31.28:161][128]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-15.31.28:161][128]TextureStreamingBuild: Display: Compiling optional shaders took 1.135 seconds.
+[2018.10.09-15.31.28:175][128]LogLevel: Display: Export Material TexCoord Scales took 0.014 seconds.
+[2018.10.09-15.31.28:278][128]TextureStreamingBuild: Display: Build Texture Streaming took 0.103 seconds.
+[2018.10.09-15.31.28:296][128]LightingResults: New page: Lighting Build - 9 Oct 2018 17:31:28
+[2018.10.09-15.31.28:308][128]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.09-15.31.28:310][128]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.09-15.31.28:311][128]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.09-15.31.31:322][128]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.09-15.31.31:322][128]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16020
+[2018.10.09-15.31.35:832][128]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.09-15.31.35:832][128]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.09-15.31.35:832][128]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.09-15.31.35:832][128]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.09-15.31.35:832][128]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.09-15.31.35:949][128]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.10.09-15.31.35:949][128]MapCheck: New page: FirstPersonExampleMap - 9 Oct 2018 17:31:35
+[2018.10.09-15.31.35:949][128]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2018.10.09-15.31.36:026][128]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 77.517ms to complete.
+[2018.10.09-15.31.36:049][128]LogEditorBuildUtils: Build time 0:09
+[2018.10.09-15.31.36:054][128]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.32.09:895][150]Job is a success!
+[2018.10.09-15.32.09:979][152]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.024s
+[2018.10.09-15.32.09:979][152]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.09-15.32.09:979][152]LogVolumetricLightmapImport:      BrickData 1275x5x5 = 1.2Mb (trimmed 0.7Mb due to 0.010000 MinBrickError)
+[2018.10.09-15.32.09:979][152]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.09-15.32.09:979][152]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2018.10.09-15.32.09:979][152]LogVolumetricLightmapImport:          1: 4.7% covering 18.8% of volume
+[2018.10.09-15.32.09:979][152]LogVolumetricLightmapImport:          2: 94.9% covering 5.9% of volume
+[2018.10.09-15.32.13:126][152]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2018.10.09-15.32.13:126][152]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2018.10.09-15.32.13:126][152]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2018.10.09-15.32.13:126][152]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2018.10.09-15.32.13:126][152]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.10.09-15.32.13:126][152]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.10.09-15.32.13:126][152]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2018.10.09-15.32.13:126][152]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2018.10.09-15.32.13:126][152]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2018.10.09-15.32.13:126][152]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2018.10.09-15.32.13:126][152]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2018.10.09-15.32.13:126][152]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2018.10.09-15.32.13:127][152]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2018.10.09-15.32.13:127][152]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2018.10.09-15.32.13:127][152]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2018.10.09-15.32.13:350][152]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 32X32)
+[2018.10.09-15.32.13:350][152]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 1024X128)
+[2018.10.09-15.32.13:350][152]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 512X512)
+[2018.10.09-15.32.13:350][152]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 1024X1024)
+[2018.10.09-15.32.13:387][152]Lightmass on DRAYNARUE-DESKT: 36.4 sec total, 137 ms importing, 277 ms setup, 5.93 sec photons, 30.0 sec processing, 0 ms extra exporting [653/653 mappings]. Threads: 3:30 min total, 2:22 min processing.
+[2018.10.09-15.32.13:403][152]LogStaticLightingSystem: Illumination: 45.0 sec (2.84 sec encoding lightmaps, 223 ms encoding shadowmaps)
+[2018.10.09-15.32.13:403][152]LogStaticLightingSystem: Lightmap texture memory:  18.7 MB (16.0 MB streaming, 2.7 MB non-streaming), 10 textures
+[2018.10.09-15.32.13:403][152]LogStaticLightingSystem: Shadowmap texture memory: 1.8 MB (1.5 MB streaming, 0.3 MB non-streaming), 4 textures
+[2018.10.09-15.32.13:861][152]DumpUnbuiltLightIteractions
+[2018.10.09-15.32.13:861][152]Lights with unbuilt interactions: 0
+[2018.10.09-15.32.13:861][152]
+[2018.10.09-15.32.13:861][152]Primitives with unbuilt interactions: 0
+[2018.10.09-15.32.13:866][152]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.32.13:985][153]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.09-15.32.13:985][153]MapCheck: New page: FirstPersonExampleMap - 9 Oct 2018 17:32:13
+[2018.10.09-15.32.14:064][153]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78.969ms to complete.
+[2018.10.09-15.32.15:913][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.32.16:004][384]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-15.32.16:008][384]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-15.32.27:513][737]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight9)
+[2018.10.09-15.32.35:318][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair71)
+[2018.10.09-15.32.42:580][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.32.45:540][810]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.32.48:509][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.32.54:244][807]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight13)
+[2018.10.09-15.32.55:196][916]Cmd: EDIT COPY
+[2018.10.09-15.32.55:443][945]Cmd: EDIT PASTE
+[2018.10.09-15.33.09:414][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.33.09:847][475]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap6743A5404BF3E5391AE01ABEF1DA8CA1.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.33.10:524][475]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataDDEB9D1A4EC398DA192B3285BDADB241.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.33.11:104][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.33.11:221][545]MapCheck: New page: Map Check
+[2018.10.09-15.33.11:233][545]Cmd: MAP REBUILD ALLVISIBLE
+[2018.10.09-15.33.11:233][545]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.10.09-15.33.11:536][545]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterialOverride, compiling. 
+[2018.10.09-15.33.11:542][545]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-15.33.11:542][545]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.10.09-15.33.11:548][545]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.10.09-15.33.11:558][545]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.09-15.33.11:558][545]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-15.33.11:558][545]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.10.09-15.33.11:566][545]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.10.09-15.33.11:573][545]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.10.09-15.33.11:581][545]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.09-15.33.11:581][545]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2018.10.09-15.33.11:587][545]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.10.09-15.33.11:594][545]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Bush, compiling. 
+[2018.10.09-15.33.11:601][545]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.10.09-15.33.11:608][545]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.10.09-15.33.11:616][545]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.10.09-15.33.11:626][545]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2018.10.09-15.33.11:636][545]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.10.09-15.33.12:666][545]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.09-15.33.12:666][545]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.09-15.33.12:666][545]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.09-15.33.12:666][545]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.09-15.33.12:666][545]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.09-15.33.12:666][545]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.09-15.33.12:666][545]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.09-15.33.12:666][545]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.09-15.33.12:666][545]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.09-15.33.12:666][545]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-15.33.12:666][545]TextureStreamingBuild: Display: Compiling optional shaders took 1.133 seconds.
+[2018.10.09-15.33.12:677][545]LogLevel: Display: Export Material TexCoord Scales took 0.010 seconds.
+[2018.10.09-15.33.12:781][545]TextureStreamingBuild: Display: Build Texture Streaming took 0.105 seconds.
+[2018.10.09-15.33.12:802][545]LightingResults: New page: Lighting Build - 9 Oct 2018 17:33:12
+[2018.10.09-15.33.12:814][545]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.09-15.33.12:816][545]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.09-15.33.12:817][545]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.09-15.33.15:828][545]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.09-15.33.15:828][545]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16020
+[2018.10.09-15.33.20:336][545]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.09-15.33.20:336][545]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.09-15.33.20:336][545]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.09-15.33.20:336][545]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.09-15.33.20:336][545]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.09-15.33.20:453][545]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.10.09-15.33.20:453][545]MapCheck: New page: FirstPersonExampleMap - 9 Oct 2018 17:33:20
+[2018.10.09-15.33.20:453][545]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2018.10.09-15.33.20:530][545]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 76.835ms to complete.
+[2018.10.09-15.33.20:552][545]LogEditorBuildUtils: Build time 0:09
+[2018.10.09-15.33.20:570][545]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.33.52:533][853]Job is a success!
+[2018.10.09-15.33.52:625][854]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.024s
+[2018.10.09-15.33.52:625][854]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.09-15.33.52:625][854]LogVolumetricLightmapImport:      BrickData 1275x5x5 = 1.2Mb (trimmed 0.7Mb due to 0.010000 MinBrickError)
+[2018.10.09-15.33.52:625][854]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.09-15.33.52:625][854]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2018.10.09-15.33.52:625][854]LogVolumetricLightmapImport:          1: 4.7% covering 18.8% of volume
+[2018.10.09-15.33.52:625][854]LogVolumetricLightmapImport:          2: 94.9% covering 5.9% of volume
+[2018.10.09-15.33.55:844][854]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2018.10.09-15.33.55:845][854]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2018.10.09-15.33.55:845][854]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2018.10.09-15.33.55:845][854]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2018.10.09-15.33.55:845][854]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.10.09-15.33.55:845][854]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.10.09-15.33.55:845][854]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2018.10.09-15.33.55:845][854]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2018.10.09-15.33.55:845][854]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2018.10.09-15.33.55:845][854]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 1024X512)
+[2018.10.09-15.33.55:845][854]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2018.10.09-15.33.55:845][854]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2018.10.09-15.33.55:845][854]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 64X32)
+[2018.10.09-15.33.55:845][854]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2018.10.09-15.33.55:845][854]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2018.10.09-15.33.56:045][854]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 32X32)
+[2018.10.09-15.33.56:045][854]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 1024X128)
+[2018.10.09-15.33.56:045][854]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 512X512)
+[2018.10.09-15.33.56:069][854]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 1024X1024)
+[2018.10.09-15.33.56:085][854]Lightmass on DRAYNARUE-DESKT: 34.7 sec total, 140 ms importing, 286 ms setup, 6.13 sec photons, 28.1 sec processing, 0 ms extra exporting [653/653 mappings]. Threads: 3:16 min total, 2:17 min processing.
+[2018.10.09-15.33.56:124][854]LogStaticLightingSystem: Illumination: 43.3 sec (2.91 sec encoding lightmaps, 222 ms encoding shadowmaps)
+[2018.10.09-15.33.56:125][854]LogStaticLightingSystem: Lightmap texture memory:  18.7 MB (16.0 MB streaming, 2.7 MB non-streaming), 10 textures
+[2018.10.09-15.33.56:125][854]LogStaticLightingSystem: Shadowmap texture memory: 1.8 MB (1.5 MB streaming, 0.3 MB non-streaming), 4 textures
+[2018.10.09-15.33.56:364][854]DumpUnbuiltLightIteractions
+[2018.10.09-15.33.56:364][854]Lights with unbuilt interactions: 0
+[2018.10.09-15.33.56:364][854]
+[2018.10.09-15.33.56:364][854]Primitives with unbuilt interactions: 0
+[2018.10.09-15.33.56:369][854]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.33.56:503][855]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.09-15.33.56:503][855]MapCheck: New page: FirstPersonExampleMap - 9 Oct 2018 17:33:56
+[2018.10.09-15.33.56:582][855]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78.509ms to complete.
+[2018.10.09-15.34.04:085][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.34.04:168][762]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-15.34.04:171][762]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-15.34.51:403][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.35.16:857][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.35.40:483][917]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap08DEA7534D0B9F97D0D046A7F20DFB7E.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.35.41:166][917]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataB7054CD444400F2B2E81D6836323C26B.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.35.42:676][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.35.42:780][ 69]MapCheck: New page: Map Check
+[2018.10.09-15.35.42:798][ 69]Cmd: MAP REBUILD ALLVISIBLE
+[2018.10.09-15.35.42:798][ 69]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.10.09-15.35.43:105][ 69]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterialOverride, compiling. 
+[2018.10.09-15.35.43:110][ 69]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-15.35.43:110][ 69]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.10.09-15.35.43:117][ 69]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.10.09-15.35.43:125][ 69]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.09-15.35.43:125][ 69]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-15.35.43:125][ 69]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.10.09-15.35.43:130][ 69]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.10.09-15.35.43:136][ 69]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.10.09-15.35.43:143][ 69]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2018.10.09-15.35.43:151][ 69]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.09-15.35.43:151][ 69]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.10.09-15.35.43:158][ 69]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Bush, compiling. 
+[2018.10.09-15.35.43:165][ 69]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.10.09-15.35.43:171][ 69]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.10.09-15.35.43:178][ 69]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.10.09-15.35.43:188][ 69]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2018.10.09-15.35.43:198][ 69]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.10.09-15.35.44:269][ 69]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.09-15.35.44:269][ 69]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.09-15.35.44:269][ 69]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.09-15.35.44:269][ 69]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.09-15.35.44:269][ 69]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.09-15.35.44:269][ 69]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.09-15.35.44:269][ 69]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.09-15.35.44:269][ 69]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.09-15.35.44:269][ 69]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.09-15.35.44:269][ 69]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-15.35.44:269][ 69]TextureStreamingBuild: Display: Compiling optional shaders took 1.166 seconds.
+[2018.10.09-15.35.44:280][ 69]LogLevel: Display: Export Material TexCoord Scales took 0.011 seconds.
+[2018.10.09-15.35.44:381][ 69]TextureStreamingBuild: Display: Build Texture Streaming took 0.101 seconds.
+[2018.10.09-15.35.44:403][ 69]LightingResults: New page: Lighting Build - 9 Oct 2018 17:35:44
+[2018.10.09-15.35.44:415][ 69]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.09-15.35.44:417][ 69]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.09-15.35.44:417][ 69]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.09-15.35.47:426][ 69]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.09-15.35.47:426][ 69]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16020
+[2018.10.09-15.35.51:934][ 69]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.09-15.35.51:934][ 69]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.09-15.35.51:934][ 69]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.09-15.35.51:934][ 69]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.09-15.35.51:934][ 69]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.09-15.35.52:048][ 69]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.10.09-15.35.52:048][ 69]MapCheck: New page: FirstPersonExampleMap - 9 Oct 2018 17:35:52
+[2018.10.09-15.35.52:048][ 69]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2018.10.09-15.35.52:125][ 69]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 76.22ms to complete.
+[2018.10.09-15.35.52:147][ 69]LogEditorBuildUtils: Build time 0:09
+[2018.10.09-15.35.52:153][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.36.24:524][846]Job is a success!
+[2018.10.09-15.36.24:621][847]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.023s
+[2018.10.09-15.36.24:621][847]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.09-15.36.24:621][847]LogVolumetricLightmapImport:      BrickData 1280x5x5 = 1.3Mb (trimmed 0.7Mb due to 0.010000 MinBrickError)
+[2018.10.09-15.36.24:621][847]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.09-15.36.24:621][847]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2018.10.09-15.36.24:621][847]LogVolumetricLightmapImport:          1: 4.7% covering 18.8% of volume
+[2018.10.09-15.36.24:621][847]LogVolumetricLightmapImport:          2: 94.9% covering 5.9% of volume
+[2018.10.09-15.36.27:884][847]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2018.10.09-15.36.27:884][847]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2018.10.09-15.36.27:884][847]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2018.10.09-15.36.27:884][847]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2018.10.09-15.36.27:884][847]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.10.09-15.36.27:884][847]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.10.09-15.36.27:884][847]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2018.10.09-15.36.27:884][847]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2018.10.09-15.36.27:884][847]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2018.10.09-15.36.27:884][847]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2018.10.09-15.36.27:884][847]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2018.10.09-15.36.27:884][847]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2018.10.09-15.36.27:884][847]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2018.10.09-15.36.27:884][847]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2018.10.09-15.36.27:884][847]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2018.10.09-15.36.28:084][847]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 32X32)
+[2018.10.09-15.36.28:084][847]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 1024X128)
+[2018.10.09-15.36.28:084][847]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 512X512)
+[2018.10.09-15.36.28:119][847]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 1024X1024)
+[2018.10.09-15.36.31:152][847]Lightmass on DRAYNARUE-DESKT: 37.9 sec total, 133 ms importing, 279 ms setup, 6.18 sec photons, 31.3 sec processing, 0 ms extra exporting [653/653 mappings]. Threads: 3:39 min total, 2:11 min processing.
+[2018.10.09-15.36.31:193][847]LogStaticLightingSystem: Illumination: 46.7 sec (2.95 sec encoding lightmaps, 233 ms encoding shadowmaps)
+[2018.10.09-15.36.31:193][847]LogStaticLightingSystem: Lightmap texture memory:  18.7 MB (16.0 MB streaming, 2.7 MB non-streaming), 10 textures
+[2018.10.09-15.36.31:193][847]LogStaticLightingSystem: Shadowmap texture memory: 1.8 MB (1.5 MB streaming, 0.3 MB non-streaming), 4 textures
+[2018.10.09-15.36.31:961][847]DumpUnbuiltLightIteractions
+[2018.10.09-15.36.31:961][847]Lights with unbuilt interactions: 0
+[2018.10.09-15.36.31:961][847]
+[2018.10.09-15.36.31:961][847]Primitives with unbuilt interactions: 0
+[2018.10.09-15.36.31:966][847]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.36.32:090][848]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.09-15.36.32:090][848]MapCheck: New page: FirstPersonExampleMap - 9 Oct 2018 17:36:32
+[2018.10.09-15.36.32:167][848]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.438ms to complete.
+[2018.10.09-15.36.35:833][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.36.37:374][468]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.36.38:503][599]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.36.39:015][599]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap3EB546AF4DE380C0368D1DBC32FD0362.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.36.39:042][599]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.535
+[2018.10.09-15.36.39:700][599]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData227D140E4D5F5C0E07DCCB994CF7E194.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.36.41:330][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.36.41:422][793]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.09-15.36.41:434][793]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.36.41:434][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-15.36.41:434][793]PIE: New page: PIE session: FirstPersonExampleMap (9 Oct 2018 17:36:41)
+[2018.10.09-15.36.41:434][793]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.09-15.36.41:479][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043951s)
+[2018.10.09-15.36.41:480][793]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.09-15.36.41:480][793]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2018.10.09-15.36.41:480][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.045514s)
+[2018.10.09-15.36.41:549][793]LogInit: XAudio2 using 'DELL S2316H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-15.36.41:563][793]LogInit: FAudioDevice initialized.
+[2018.10.09-15.36.41:595][793]LogLoad: Game class is 'FateFindWallyGameMode'
+[2018.10.09-15.36.41:602][793]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.09-16.36.41
+[2018.10.09-15.36.41:603][793]LogWorld: Bringing up level for play took: 0.007108
+[2018.10.09-15.36.41:617][793]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.576
+[2018.10.09-15.36.41:617][793]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.38.41:499][262]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.38.41:500][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-15.38.41:533][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-15.38.41:533][262]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.38.41:554][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-15.38.41:601][265]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.10.09-15.38.51:910][493]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight13)
+[2018.10.09-15.38.56:784][ 31]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2018.10.09-15.39.06:309][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.39.06:417][148]MapCheck: New page: Map Check
+[2018.10.09-15.39.06:425][148]Cmd: MAP REBUILD ALLVISIBLE
+[2018.10.09-15.39.06:425][148]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.10.09-15.39.06:724][148]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterialOverride, compiling. 
+[2018.10.09-15.39.06:728][148]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.10.09-15.39.06:734][148]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-15.39.06:734][148]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.10.09-15.39.06:740][148]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.10.09-15.39.06:747][148]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.09-15.39.06:747][148]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-15.39.06:747][148]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.10.09-15.39.06:752][148]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.10.09-15.39.06:758][148]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2018.10.09-15.39.06:764][148]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.10.09-15.39.06:771][148]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.09-15.39.06:771][148]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Bush, compiling. 
+[2018.10.09-15.39.06:779][148]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.10.09-15.39.06:786][148]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.10.09-15.39.06:792][148]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.10.09-15.39.06:804][148]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2018.10.09-15.39.06:813][148]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.10.09-15.39.07:836][148]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.09-15.39.07:836][148]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.09-15.39.07:836][148]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.09-15.39.07:836][148]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.09-15.39.07:836][148]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.09-15.39.07:836][148]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.09-15.39.07:836][148]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.09-15.39.07:836][148]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.09-15.39.07:836][148]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.09-15.39.07:836][148]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-15.39.07:836][148]TextureStreamingBuild: Display: Compiling optional shaders took 1.115 seconds.
+[2018.10.09-15.39.07:848][148]LogLevel: Display: Export Material TexCoord Scales took 0.012 seconds.
+[2018.10.09-15.39.07:947][148]TextureStreamingBuild: Display: Build Texture Streaming took 0.099 seconds.
+[2018.10.09-15.39.07:966][148]LightingResults: New page: Lighting Build - 9 Oct 2018 17:39:07
+[2018.10.09-15.39.07:978][148]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.09-15.39.07:980][148]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.09-15.39.07:980][148]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.09-15.39.10:982][148]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.09-15.39.10:982][148]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16020
+[2018.10.09-15.39.15:490][148]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.09-15.39.15:490][148]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.09-15.39.15:490][148]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.09-15.39.15:490][148]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.09-15.39.15:490][148]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.09-15.39.15:604][148]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.10.09-15.39.15:604][148]MapCheck: New page: FirstPersonExampleMap - 9 Oct 2018 17:39:15
+[2018.10.09-15.39.15:604][148]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2018.10.09-15.39.15:680][148]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 75.563ms to complete.
+[2018.10.09-15.39.15:703][148]LogEditorBuildUtils: Build time 0:09
+[2018.10.09-15.39.48:353][389]Job is a success!
+[2018.10.09-15.39.48:450][390]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.027s
+[2018.10.09-15.39.48:450][390]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.09-15.39.48:450][390]LogVolumetricLightmapImport:      BrickData 1280x5x5 = 1.3Mb (trimmed 0.7Mb due to 0.010000 MinBrickError)
+[2018.10.09-15.39.48:450][390]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.09-15.39.48:450][390]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2018.10.09-15.39.48:450][390]LogVolumetricLightmapImport:          1: 4.7% covering 18.8% of volume
+[2018.10.09-15.39.48:450][390]LogVolumetricLightmapImport:          2: 94.9% covering 5.9% of volume
+[2018.10.09-15.39.51:831][390]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2018.10.09-15.39.51:831][390]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2018.10.09-15.39.51:831][390]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2018.10.09-15.39.51:831][390]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2018.10.09-15.39.51:832][390]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.10.09-15.39.51:832][390]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.10.09-15.39.51:832][390]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2018.10.09-15.39.51:832][390]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2018.10.09-15.39.51:832][390]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2018.10.09-15.39.51:832][390]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 1024X512)
+[2018.10.09-15.39.51:832][390]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2018.10.09-15.39.51:832][390]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2018.10.09-15.39.51:832][390]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 64X32)
+[2018.10.09-15.39.51:832][390]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2018.10.09-15.39.51:832][390]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2018.10.09-15.39.52:032][390]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 32X32)
+[2018.10.09-15.39.52:032][390]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 1024X128)
+[2018.10.09-15.39.52:032][390]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 512X512)
+[2018.10.09-15.39.52:067][390]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (G8, 1024X1024)
+[2018.10.09-15.39.52:080][390]Lightmass on DRAYNARUE-DESKT: 35.4 sec total, 138 ms importing, 280 ms setup, 6.32 sec photons, 28.6 sec processing, 0 ms extra exporting [653/653 mappings]. Threads: 3:20 min total, 2:19 min processing.
+[2018.10.09-15.39.52:134][390]LogStaticLightingSystem: Illumination: 44.1 sec (3.07 sec encoding lightmaps, 233 ms encoding shadowmaps)
+[2018.10.09-15.39.52:134][390]LogStaticLightingSystem: Lightmap texture memory:  18.7 MB (16.0 MB streaming, 2.7 MB non-streaming), 10 textures
+[2018.10.09-15.39.52:134][390]LogStaticLightingSystem: Shadowmap texture memory: 1.8 MB (1.5 MB streaming, 0.3 MB non-streaming), 4 textures
+[2018.10.09-15.39.52:517][390]DumpUnbuiltLightIteractions
+[2018.10.09-15.39.52:517][390]Lights with unbuilt interactions: 0
+[2018.10.09-15.39.52:517][390]
+[2018.10.09-15.39.52:517][390]Primitives with unbuilt interactions: 0
+[2018.10.09-15.39.52:636][391]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.09-15.39.52:636][391]MapCheck: New page: FirstPersonExampleMap - 9 Oct 2018 17:39:52
+[2018.10.09-15.39.52:713][391]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.605ms to complete.
+[2018.10.09-15.40.05:901][959]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-15.40.05:904][959]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-15.40.09:883][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.40.10:324][431]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap52E64EBC4E977EEB2BFF46B6BF0C0255.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.40.11:008][431]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataA5C85AE84E697BC92D982088519EA043.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.40.17:174][134]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight13)
+[2018.10.09-15.41.12:007][473]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.10.09-15.41.13:198][590]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.10.09-15.41.43:156][103]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.41.43:938][195]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.41.57:756][809]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.41.58:213][809]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap515C39354B46FBEB0B4889B5FCA320A8.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.41.58:914][809]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData1915B0204992B834FACD5896A80E8921.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.42.02:683][248]Cmd: EDIT COPY
+[2018.10.09-15.42.02:914][275]Cmd: EDIT PASTE
+[2018.10.09-15.42.08:923][961]Cmd: EDIT COPY
+[2018.10.09-15.42.09:216][995]Cmd: EDIT PASTE
+[2018.10.09-15.42.12:824][397]Cmd: EDIT COPY
+[2018.10.09-15.42.13:020][420]Cmd: EDIT PASTE
+[2018.10.09-15.42.25:566][852]Cmd: EDIT COPY
+[2018.10.09-15.42.25:818][882]Cmd: EDIT PASTE
+[2018.10.09-15.42.37:645][182]Cmd: EDIT COPY
+[2018.10.09-15.42.37:901][210]Cmd: EDIT PASTE
+[2018.10.09-15.45.04:059][550]Cmd: EDIT COPY
+[2018.10.09-15.45.04:341][583]Cmd: EDIT PASTE
+[2018.10.09-15.45.11:651][426]Cmd: EDIT COPY
+[2018.10.09-15.45.11:867][451]Cmd: EDIT PASTE
+[2018.10.09-15.45.43:138][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.45.43:660][147]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap83DD09C94F33B9086086D1A7B0502B75.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.45.44:339][147]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataC14A388C402C79E0DA99ABB8F10CEF23.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.45.58:040][751]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.46.02:049][173]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMapAE9A4E4C448BD475A722AA8909D6FE2B.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.46.02:726][173]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataC296BA9A477923C789303C9C0D796F12.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.46.44:000][ 54]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.10.09-15.47.01:721][146]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.10.09-15.48.01:441][278]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.48.01:891][278]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap1D0657B24CF16AA4C2912BACEEEB2922.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.48.02:603][278]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData6B19F1C743046825EA59E09137187D71.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.48.34:834][ 57]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.10.09-15.48.38:750][524]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.10.09-15.49.09:778][179]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.49.21:249][545]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.49.21:709][545]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap13DDF66B45EB32B68B4D9683EE5A96D4.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.49.22:378][545]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataE9615D6C4DCA67ED0516A1904BF1A5C4.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.49.59:069][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.49.59:144][880]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.09-15.49.59:155][880]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.49.59:155][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-15.49.59:155][880]PIE: New page: PIE session: FirstPersonExampleMap (9 Oct 2018 17:49:59)
+[2018.10.09-15.49.59:155][880]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.09-15.49.59:194][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038210s)
+[2018.10.09-15.49.59:194][880]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.09-15.49.59:195][880]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2018.10.09-15.49.59:195][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.039531s)
+[2018.10.09-15.49.59:256][880]LogInit: XAudio2 using 'DELL S2316H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-15.49.59:271][880]LogInit: FAudioDevice initialized.
+[2018.10.09-15.49.59:306][880]LogLoad: Game class is 'FateFindWallyGameMode'
+[2018.10.09-15.49.59:315][880]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.09-16.49.59
+[2018.10.09-15.49.59:316][880]LogWorld: Bringing up level for play took: 0.009844
+[2018.10.09-15.49.59:329][880]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.289
+[2018.10.09-15.49.59:330][880]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.50.43:695][200]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.50.43:696][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-15.50.43:732][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-15.50.43:732][200]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.50.43:755][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-15.50.43:799][202]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.10.09-15.51.39:583][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.51.39:666][822]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.09-15.51.39:677][822]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.51.39:677][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-15.51.39:677][822]PIE: New page: PIE session: FirstPersonExampleMap (9 Oct 2018 17:51:39)
+[2018.10.09-15.51.39:677][822]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.09-15.51.39:716][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039168s)
+[2018.10.09-15.51.39:717][822]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.09-15.51.39:717][822]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2018.10.09-15.51.39:717][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.040286s)
+[2018.10.09-15.51.39:779][822]LogInit: XAudio2 using 'DELL S2316H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-15.51.39:793][822]LogInit: FAudioDevice initialized.
+[2018.10.09-15.51.39:822][822]LogLoad: Game class is 'FateFindWallyGameMode'
+[2018.10.09-15.51.39:832][822]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.09-16.51.39
+[2018.10.09-15.51.39:833][822]LogWorld: Bringing up level for play took: 0.010054
+[2018.10.09-15.51.39:846][822]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.806
+[2018.10.09-15.51.39:846][822]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.52.32:891][182]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.52.32:892][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-15.52.32:925][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-15.52.32:925][182]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.52.32:945][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-15.52.32:993][186]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.10.09-15.54.29:462][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.54.29:595][ 86]MapCheck: New page: Map Check
+[2018.10.09-15.54.29:605][ 86]Cmd: MAP REBUILD ALLVISIBLE
+[2018.10.09-15.54.29:606][ 86]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.10.09-15.54.29:934][ 86]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterialOverride, compiling. 
+[2018.10.09-15.54.29:938][ 86]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.10.09-15.54.29:944][ 86]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-15.54.29:944][ 86]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.10.09-15.54.29:950][ 86]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.10.09-15.54.29:957][ 86]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.09-15.54.29:957][ 86]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-15.54.29:957][ 86]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.10.09-15.54.29:962][ 86]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.10.09-15.54.29:967][ 86]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2018.10.09-15.54.29:973][ 86]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.10.09-15.54.29:980][ 86]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.09-15.54.29:980][ 86]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Bush, compiling. 
+[2018.10.09-15.54.29:987][ 86]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.10.09-15.54.29:994][ 86]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.10.09-15.54.30:001][ 86]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.10.09-15.54.30:010][ 86]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2018.10.09-15.54.30:020][ 86]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.10.09-15.54.31:057][ 86]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.09-15.54.31:057][ 86]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.09-15.54.31:057][ 86]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.09-15.54.31:057][ 86]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.09-15.54.31:057][ 86]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.09-15.54.31:057][ 86]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.09-15.54.31:057][ 86]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.09-15.54.31:057][ 86]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.09-15.54.31:057][ 86]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.09-15.54.31:057][ 86]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-15.54.31:057][ 86]TextureStreamingBuild: Display: Compiling optional shaders took 1.126 seconds.
+[2018.10.09-15.54.31:069][ 86]LogLevel: Display: Export Material TexCoord Scales took 0.012 seconds.
+[2018.10.09-15.54.31:171][ 86]TextureStreamingBuild: Display: Build Texture Streaming took 0.102 seconds.
+[2018.10.09-15.54.31:191][ 86]LightingResults: New page: Lighting Build - 9 Oct 2018 17:54:31
+[2018.10.09-15.54.31:204][ 86]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.09-15.54.31:207][ 86]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.09-15.54.31:207][ 86]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.09-15.54.34:208][ 86]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.09-15.54.34:209][ 86]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16020
+[2018.10.09-15.54.38:718][ 86]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.09-15.54.38:718][ 86]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.09-15.54.38:718][ 86]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.09-15.54.38:718][ 86]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.09-15.54.38:718][ 86]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.09-15.54.38:835][ 86]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.10.09-15.54.38:835][ 86]MapCheck: New page: FirstPersonExampleMap - 9 Oct 2018 17:54:38
+[2018.10.09-15.54.38:835][ 86]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2018.10.09-15.54.38:914][ 86]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 78.779ms to complete.
+[2018.10.09-15.54.38:936][ 86]LogEditorBuildUtils: Build time 0:09
+[2018.10.09-15.54.38:942][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.55.14:383][277]Job is a success!
+[2018.10.09-15.55.14:482][278]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.025s
+[2018.10.09-15.55.14:482][278]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.09-15.55.14:482][278]LogVolumetricLightmapImport:      BrickData 1230x5x5 = 1.2Mb (trimmed 0.8Mb due to 0.010000 MinBrickError)
+[2018.10.09-15.55.14:482][278]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.09-15.55.14:482][278]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2018.10.09-15.55.14:482][278]LogVolumetricLightmapImport:          1: 4.9% covering 18.8% of volume
+[2018.10.09-15.55.14:482][278]LogVolumetricLightmapImport:          2: 94.7% covering 5.7% of volume
+[2018.10.09-15.55.17:850][278]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2018.10.09-15.55.17:850][278]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2018.10.09-15.55.17:850][278]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2018.10.09-15.55.17:850][278]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2018.10.09-15.55.17:850][278]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.10.09-15.55.17:850][278]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.10.09-15.55.17:850][278]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2018.10.09-15.55.17:850][278]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2018.10.09-15.55.17:850][278]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2018.10.09-15.55.17:850][278]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2018.10.09-15.55.17:850][278]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2018.10.09-15.55.17:850][278]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2018.10.09-15.55.17:850][278]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2018.10.09-15.55.17:850][278]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2018.10.09-15.55.17:850][278]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2018.10.09-15.55.18:050][278]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (G8, 32X32)
+[2018.10.09-15.55.18:050][278]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (G8, 1024X256)
+[2018.10.09-15.55.18:050][278]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 512X512)
+[2018.10.09-15.55.18:087][278]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 1024X1024)
+[2018.10.09-15.55.18:100][278]Lightmass on DRAYNARUE-DESKT: 38.3 sec total, 141 ms importing, 284 ms setup, 6.38 sec photons, 31.4 sec processing, 0 ms extra exporting [688/688 mappings]. Threads: 3:39 min total, 2:28 min processing.
+[2018.10.09-15.55.18:143][278]LogStaticLightingSystem: Illumination: 46.9 sec (3.05 sec encoding lightmaps, 234 ms encoding shadowmaps)
+[2018.10.09-15.55.18:143][278]LogStaticLightingSystem: Lightmap texture memory:  18.7 MB (16.0 MB streaming, 2.7 MB non-streaming), 10 textures
+[2018.10.09-15.55.18:143][278]LogStaticLightingSystem: Shadowmap texture memory: 2.0 MB (1.7 MB streaming, 0.3 MB non-streaming), 4 textures
+[2018.10.09-15.55.18:744][278]DumpUnbuiltLightIteractions
+[2018.10.09-15.55.18:744][278]Lights with unbuilt interactions: 0
+[2018.10.09-15.55.18:744][278]
+[2018.10.09-15.55.18:744][278]Primitives with unbuilt interactions: 0
+[2018.10.09-15.55.18:749][278]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.55.18:872][279]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.09-15.55.18:872][279]MapCheck: New page: FirstPersonExampleMap - 9 Oct 2018 17:55:18
+[2018.10.09-15.55.18:947][279]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 74.51ms to complete.
+[2018.10.09-15.55.31:665][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.55.33:166][982]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.55.34:332][119]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.55.34:879][119]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap5D1C7D954829F5051B56BE8CAF077EDD.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.55.34:909][119]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.574
+[2018.10.09-15.55.35:621][119]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataE19C0BC9423B157CB844658C206E4FA7.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.59.49:811][796]Cmd: EDIT COPY
+[2018.10.09-15.59.50:206][842]Cmd: EDIT PASTE
+[2018.10.09-16.01.12:577][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.09-16.02.16:556][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-16.02.17:134][862]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMapED683822481C74A95E40EBA7A4EDAF78.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-16.02.17:967][862]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData540216864A9D4D635F25AE95791E15E1.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-16.02.30:803][377]Cmd: EDIT COPY
+[2018.10.09-16.02.34:025][759]Cmd: EDIT PASTE
+[2018.10.09-16.02.59:601][408]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-16.03.00:074][408]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMapA1A975C745E1DBB3EA15B78EAB2F6FC6.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-16.03.00:764][408]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData061FDCE344540AF9832963AEAEAD2EFB.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-16.03.17:764][374]Cmd: EDIT COPY
+[2018.10.09-16.03.18:421][452]Cmd: EDIT PASTE
+[2018.10.09-16.03.27:262][388]Cmd: TRANSACTION UNDO
+[2018.10.09-16.03.27:262][388]LogEditorTransaction: Undo Move Actors
+[2018.10.09-16.03.27:310][388]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.10.09-16.03.27:311][388]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush115.BrushComponent0) Component already registered.
+[2018.10.09-16.03.49:068][704]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-16.03.49:574][704]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap45C6850E4260B09F40AC34919628EF32.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-16.03.50:256][704]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData0707DED946E59A88C5760EA277A2F1BE.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-16.03.59:519][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door12)
+[2018.10.09-16.04.05:594][349]Cmd: EDIT COPY
+[2018.10.09-16.04.05:954][392]Cmd: EDIT PASTE
+[2018.10.09-16.04.37:450][873]Cmd: EDIT COPY
+[2018.10.09-16.04.37:665][898]Cmd: EDIT PASTE
+[2018.10.09-16.05.04:945][876]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-16.05.05:455][876]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap4A5E5C6043D12981EE140797E918F5F4.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-16.05.06:152][876]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataE205890642E7D934931AD48E7F26945D.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-16.05.20:786][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound73)
+[2018.10.09-16.05.43:262][ 46]Cmd: EDIT COPY
+[2018.10.09-16.05.43:701][ 97]Cmd: EDIT PASTE
+[2018.10.09-16.06.33:097][799]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-16.06.33:606][799]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMapCBC754154C7E92755ADAFA8162D9EC02.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-16.06.34:288][799]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData35920E3C4A06992031CBC7B4A25CC26B.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-16.07.15:769][597]Cmd: EDIT COPY
+[2018.10.09-16.07.16:035][628]Cmd: EDIT PASTE
+[2018.10.09-16.07.32:324][417]Cmd: TRANSACTION UNDO
+[2018.10.09-16.07.32:324][417]LogEditorTransaction: Undo Move Actors
+[2018.10.09-16.07.32:365][417]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush63.BrushComponent0) Component already registered.
+[2018.10.09-16.07.32:367][417]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush82.BrushComponent0) Component already registered.
+[2018.10.09-16.07.32:376][417]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush51_63.BrushComponent0) Component already registered.
+[2018.10.09-16.07.39:721][249]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight12)
+[2018.10.09-16.07.40:597][339]Cmd: EDIT COPY
+[2018.10.09-16.07.40:848][368]Cmd: EDIT PASTE
+[2018.10.09-16.08.03:253][923]Cmd: EDIT COPY
+[2018.10.09-16.08.03:497][951]Cmd: EDIT PASTE
+[2018.10.09-16.08.17:936][572]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-16.08.18:449][572]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap20C39C434207052D2730F8AFB799967C.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-16.08.19:178][572]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataA91986D04E7544E5A58BB1A8CC6B2CD8.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-16.09.05:787][881]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-16.09.06:290][881]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap044AAD7F44D19779B99AF3BF19BBCA22.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-16.09.06:963][881]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData9654247642EFFF6C4B91D28A154E6B7D.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-16.09.48:664][768]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-16.10.29:217][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair73)
+[2018.10.09-16.11.27:765][269]Cmd: EDIT COPY
+[2018.10.09-16.11.28:109][310]Cmd: EDIT PASTE
+[2018.10.09-16.11.41:856][903]Cmd: EDIT COPY
+[2018.10.09-16.11.42:138][935]Cmd: EDIT PASTE
+[2018.10.09-16.11.45:406][294]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_GlassWindow80)
+[2018.10.09-16.11.45:528][294]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-16.11.50:590][875]Cmd: EDIT COPY
+[2018.10.09-16.11.50:830][899]Cmd: EDIT PASTE
+[2018.10.09-16.11.57:894][685]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-16.11.58:440][685]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap34314567436A4B04116E09A1E5C2E42D.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-16.11.59:144][685]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataEE42BB234C68FFC3F9B1A294C63D8C7C.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-16.12.44:205][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-16.12.44:838][ 45]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMapDFBA951B4BA71ABB0806E59DFA2119CD.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-16.12.45:528][ 45]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData4DF188054FF461F6EBA16FABDAF94F31.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-16.13.00:200][796]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-16.13.01:886][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-16.13.01:978][  8]MapCheck: New page: Map Check
+[2018.10.09-16.13.01:985][  8]Cmd: MAP REBUILD ALLVISIBLE
+[2018.10.09-16.13.01:985][  8]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.10.09-16.13.02:339][  8]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterialOverride, compiling. 
+[2018.10.09-16.13.02:343][  8]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.10.09-16.13.02:349][  8]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-16.13.02:349][  8]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.10.09-16.13.02:354][  8]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.10.09-16.13.02:360][  8]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.09-16.13.02:360][  8]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.09-16.13.02:360][  8]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-16.13.02:361][  8]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.10.09-16.13.02:367][  8]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.10.09-16.13.02:374][  8]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2018.10.09-16.13.02:379][  8]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.10.09-16.13.02:386][  8]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Bush, compiling. 
+[2018.10.09-16.13.02:393][  8]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.10.09-16.13.02:400][  8]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.10.09-16.13.02:407][  8]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.10.09-16.13.02:417][  8]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2018.10.09-16.13.02:427][  8]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.10.09-16.13.03:451][  8]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.09-16.13.03:452][  8]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.09-16.13.03:452][  8]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.09-16.13.03:452][  8]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.09-16.13.03:452][  8]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.09-16.13.03:452][  8]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.09-16.13.03:452][  8]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.09-16.13.03:452][  8]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.09-16.13.03:452][  8]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.09-16.13.03:452][  8]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-16.13.03:452][  8]TextureStreamingBuild: Display: Compiling optional shaders took 1.116 seconds.
+[2018.10.09-16.13.03:462][  8]LogLevel: Display: Export Material TexCoord Scales took 0.011 seconds.
+[2018.10.09-16.13.03:581][  8]TextureStreamingBuild: Display: Build Texture Streaming took 0.118 seconds.
+[2018.10.09-16.13.03:602][  8]LightingResults: New page: Lighting Build - 9 Oct 2018 18:13:03
+[2018.10.09-16.13.03:616][  8]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.09-16.13.03:623][  8]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.09-16.13.03:623][  8]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.09-16.13.06:626][  8]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.09-16.13.06:626][  8]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16020
+[2018.10.09-16.13.11:135][  8]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.09-16.13.11:135][  8]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.09-16.13.11:135][  8]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.09-16.13.11:135][  8]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.09-16.13.11:135][  8]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.09-16.13.11:258][  8]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.10.09-16.13.11:258][  8]MapCheck: New page: FirstPersonExampleMap - 9 Oct 2018 18:13:11
+[2018.10.09-16.13.11:258][  8]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2018.10.09-16.13.11:337][  8]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 79.454ms to complete.
+[2018.10.09-16.13.11:360][  8]LogEditorBuildUtils: Build time 0:09
+[2018.10.09-16.13.11:365][  8]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-16.13.52:708][552]Job is a success!
+[2018.10.09-16.13.52:801][554]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.024s
+[2018.10.09-16.13.52:801][554]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.09-16.13.52:801][554]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.5Mb (trimmed 1.4Mb due to 0.010000 MinBrickError)
+[2018.10.09-16.13.52:801][554]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.09-16.13.52:801][554]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2018.10.09-16.13.52:801][554]LogVolumetricLightmapImport:          1: 4.6% covering 18.8% of volume
+[2018.10.09-16.13.52:802][554]LogVolumetricLightmapImport:          2: 95.0% covering 6.0% of volume
+[2018.10.09-16.13.56:951][554]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2018.10.09-16.13.56:951][554]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2018.10.09-16.13.56:951][554]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2018.10.09-16.13.56:951][554]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2018.10.09-16.13.56:951][554]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.10.09-16.13.56:951][554]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.10.09-16.13.56:951][554]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2018.10.09-16.13.56:951][554]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2018.10.09-16.13.56:951][554]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2018.10.09-16.13.56:951][554]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 1024X512)
+[2018.10.09-16.13.56:951][554]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2018.10.09-16.13.56:951][554]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2018.10.09-16.13.56:951][554]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2018.10.09-16.13.56:951][554]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2018.10.09-16.13.56:951][554]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2018.10.09-16.13.56:951][554]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 64X32)
+[2018.10.09-16.13.56:951][554]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2018.10.09-16.13.56:951][554]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2018.10.09-16.13.57:151][554]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (G8, 32X32)
+[2018.10.09-16.13.57:151][554]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (G8, 1024X256)
+[2018.10.09-16.13.57:151][554]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 512X512)
+[2018.10.09-16.13.57:190][554]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 1024X1024)
+[2018.10.09-16.13.57:205][554]Lightmass on DRAYNARUE-DESKT: 45.0 sec total, 140 ms importing, 357 ms setup, 7.29 sec photons, 37.1 sec processing, 0 ms extra exporting [771/771 mappings]. Threads: 4:20 min total, 3:02 min processing.
+[2018.10.09-16.13.57:248][554]LogStaticLightingSystem: Illumination: 53.6 sec (3.79 sec encoding lightmaps, 237 ms encoding shadowmaps)
+[2018.10.09-16.13.57:248][554]LogStaticLightingSystem: Lightmap texture memory:  21.3 MB (18.7 MB streaming, 2.7 MB non-streaming), 12 textures
+[2018.10.09-16.13.57:248][554]LogStaticLightingSystem: Shadowmap texture memory: 2.0 MB (1.7 MB streaming, 0.3 MB non-streaming), 4 textures
+[2018.10.09-16.13.58:168][554]DumpUnbuiltLightIteractions
+[2018.10.09-16.13.58:168][554]Lights with unbuilt interactions: 0
+[2018.10.09-16.13.58:168][554]
+[2018.10.09-16.13.58:168][554]Primitives with unbuilt interactions: 0
+[2018.10.09-16.13.58:172][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-16.13.58:300][555]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.09-16.13.58:300][555]MapCheck: New page: FirstPersonExampleMap - 9 Oct 2018 18:13:58
+[2018.10.09-16.13.58:381][555]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.392ms to complete.
+[2018.10.09-16.14.18:130][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-16.14.39:563][458]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.10.09-16.14.40:609][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-16.14.41:243][591]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap08A30F084F61D9FD6818CD97AE7D5623.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-16.14.42:114][591]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataAFE85806433B24743B350B84A3C09652.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-16.15.26:999][954]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-16.15.31:911][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-16.15.32:369][585]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-16.15.32:371][585]LogSlate: Window 'FateFindWally - Unreal Editor' being destroyed
+[2018.10.09-16.15.32:372][585]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.09-16.15.32:577][586]Cmd: QUIT_EDITOR
+[2018.10.09-16.15.33:239][586]LogExit: Preparing to exit.
+[2018.10.09-16.15.34:214][586]LogExit: Editor shut down
+[2018.10.09-16.15.34:215][586]LogExit: Transaction tracking system shut down
+[2018.10.09-16.15.34:783][586]LogExit: Object subsystem successfully closed.
+[2018.10.09-16.15.34:804][586]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.09-16.15.34:809][586]LogD3D11RHI: Shutdown
+[2018.10.09-16.15.34:809][586]LogD3D11RHI: CleanupD3DDevice
+[2018.10.09-16.15.34:850][586]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.09-16.15.34:859][586]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (620)
+[2018.10.09-16.15.34:859][586]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (618)
+[2018.10.09-16.15.34:859][586]LogModuleManager: Shutting down and abandoning module Voice (616)
+[2018.10.09-16.15.34:859][586]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (614)
+[2018.10.09-16.15.34:859][586]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.10.09-16.15.34:860][586]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.10.09-16.15.34:860][586]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.10.09-16.15.34:872][586]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.10.09-16.15.34:872][586]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.10.09-16.15.34:872][586]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.10.09-16.15.34:872][586]LogModuleManager: Shutting down and abandoning module StatsViewer (600)
+[2018.10.09-16.15.34:872][586]LogModuleManager: Shutting down and abandoning module FoliageEdit (598)
+[2018.10.09-16.15.34:872][586]LogModuleManager: Shutting down and abandoning module LandscapeEditor (596)
+[2018.10.09-16.15.34:872][586]LogModuleManager: Shutting down and abandoning module MeshPaintMode (594)
+[2018.10.09-16.15.34:872][586]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (592)
+[2018.10.09-16.15.34:872][586]LogModuleManager: Shutting down and abandoning module ActorPickerMode (590)
+[2018.10.09-16.15.34:872][586]LogModuleManager: Shutting down and abandoning module GeometryMode (588)
+[2018.10.09-16.15.34:872][586]LogModuleManager: Shutting down and abandoning module TextureAlignMode (586)
+[2018.10.09-16.15.34:872][586]LogModuleManager: Shutting down and abandoning module BspMode (584)
+[2018.10.09-16.15.34:872][586]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (582)
+[2018.10.09-16.15.34:872][586]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (580)
+[2018.10.09-16.15.34:872][586]LogModuleManager: Shutting down and abandoning module AutomationWorker (578)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (576)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (572)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (570)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module PlacementMode (569)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module MaterialEditor (568)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (564)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (562)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (560)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (558)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (556)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (554)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (552)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (550)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (548)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (546)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (544)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (542)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (540)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module CharacterAI (538)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module SmartSnapping (536)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module SessionServices (534)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module ViewportSnapping (532)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module ViewportInteraction (530)
+[2018.10.09-16.15.34:873][586]LogModuleManager: Shutting down and abandoning module ClothPainter (528)
+[2018.10.09-16.15.34:874][586]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (527)
+[2018.10.09-16.15.34:874][586]LogModuleManager: Shutting down and abandoning module LogVisualizer (524)
+[2018.10.09-16.15.34:874][586]LogModuleManager: Shutting down and abandoning module IntroTutorials (522)
+[2018.10.09-16.15.34:874][586]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (521)
+[2018.10.09-16.15.34:874][586]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (518)
+[2018.10.09-16.15.34:874][586]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (516)
+[2018.10.09-16.15.34:874][586]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (514)
+[2018.10.09-16.15.34:874][586]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (512)
+[2018.10.09-16.15.34:874][586]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (511)
+[2018.10.09-16.15.35:846][586]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (508)
+[2018.10.09-16.15.35:846][586]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (506)
+[2018.10.09-16.15.35:846][586]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (504)
+[2018.10.09-16.15.35:846][586]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (502)
+[2018.10.09-16.15.35:846][586]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.10.09-16.15.35:847][586]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.10.09-16.15.35:847][586]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.10.09-16.15.35:847][586]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.10.09-16.15.35:847][586]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.10.09-16.15.35:847][586]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.10.09-16.15.35:847][586]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.10.09-16.15.35:847][586]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.10.09-16.15.35:847][586]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.10.09-16.15.35:847][586]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.10.09-16.15.35:847][586]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.10.09-16.15.35:847][586]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.10.09-16.15.35:847][586]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.10.09-16.15.35:847][586]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.10.09-16.15.35:847][586]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.10.09-16.15.35:847][586]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.10.09-16.15.35:847][586]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.10.09-16.15.35:847][586]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.10.09-16.15.35:900][586]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.10.09-16.15.35:900][586]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.10.09-16.15.35:900][586]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.10.09-16.15.35:900][586]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.10.09-16.15.35:900][586]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.10.09-16.15.35:901][586]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.10.09-16.15.35:901][586]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.10.09-16.15.35:901][586]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.10.09-16.15.35:901][586]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.10.09-16.15.35:901][586]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module DesktopPlatform (439)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.10.09-16.15.35:902][586]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2018.10.09-16.15.35:996][586]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2018.10.09-16.15.35:996][586]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2018.10.09-16.15.35:996][586]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2018.10.09-16.15.35:996][586]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2018.10.09-16.15.35:996][586]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2018.10.09-16.15.35:996][586]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2018.10.09-16.15.35:996][586]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2018.10.09-16.15.35:996][586]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2018.10.09-16.15.35:996][586]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2018.10.09-16.15.35:996][586]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2018.10.09-16.15.35:996][586]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2018.10.09-16.15.35:996][586]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2018.10.09-16.15.35:996][586]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2018.10.09-16.15.35:996][586]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2018.10.09-16.15.35:996][586]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (372)
+[2018.10.09-16.15.35:996][586]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.10.09-16.15.35:996][586]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.10.09-16.15.35:996][586]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.10.09-16.15.36:001][586]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.10.09-16.15.36:001][586]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.10.09-16.15.36:001][586]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.10.09-16.15.36:001][586]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.10.09-16.15.36:001][586]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.10.09-16.15.36:001][586]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2018.10.09-16.15.36:001][586]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2018.10.09-16.15.36:001][586]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2018.10.09-16.15.36:001][586]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2018.10.09-16.15.36:001][586]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2018.10.09-16.15.36:001][586]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2018.10.09-16.15.36:001][586]LogModuleManager: Shutting down and abandoning module DatasmithContent (342)
+[2018.10.09-16.15.36:002][586]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2018.10.09-16.15.36:002][586]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2018.10.09-16.15.36:002][586]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2018.10.09-16.15.36:002][586]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2018.10.09-16.15.36:002][586]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2018.10.09-16.15.36:002][586]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2018.10.09-16.15.36:002][586]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2018.10.09-16.15.36:002][586]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2018.10.09-16.15.36:002][586]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2018.10.09-16.15.36:002][586]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2018.10.09-16.15.36:002][586]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2018.10.09-16.15.36:002][586]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2018.10.09-16.15.36:002][586]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2018.10.09-16.15.36:002][586]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2018.10.09-16.15.36:003][586]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2018.10.09-16.15.36:003][586]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2018.10.09-16.15.36:003][586]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2018.10.09-16.15.36:003][586]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2018.10.09-16.15.36:003][586]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2018.10.09-16.15.36:003][586]LogModuleManager: Shutting down and abandoning module MeshPaint (303)
+[2018.10.09-16.15.36:003][586]LogModuleManager: Shutting down and abandoning module FateFindWally (300)
+[2018.10.09-16.15.36:003][586]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.10.09-16.15.36:003][586]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.10.09-16.15.36:003][586]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.10.09-16.15.36:003][586]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.10.09-16.15.36:003][586]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.10.09-16.15.36:003][586]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.10.09-16.15.36:003][586]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.10.09-16.15.36:003][586]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.10.09-16.15.36:003][586]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.10.09-16.15.36:104][586]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.10.09-16.15.36:205][586]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.10.09-16.15.36:205][586]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.10.09-16.15.36:205][586]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.10.09-16.15.36:205][586]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.10.09-16.15.36:205][586]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.10.09-16.15.36:205][586]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.10.09-16.15.36:205][586]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.10.09-16.15.36:207][586]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.10.09-16.15.36:207][586]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.10.09-16.15.36:207][586]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.10.09-16.15.36:207][586]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.10.09-16.15.36:208][586]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.10.09-16.15.36:210][586]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.10.09-16.15.36:210][586]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.10.09-16.15.36:210][586]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.10.09-16.15.36:210][586]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.10.09-16.15.36:210][586]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.10.09-16.15.36:210][586]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.10.09-16.15.36:211][586]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.10.09-16.15.36:218][586]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.10.09-16.15.36:218][586]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.10.09-16.15.36:218][586]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.10.09-16.15.36:218][586]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.10.09-16.15.36:218][586]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.10.09-16.15.36:218][586]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.10.09-16.15.36:218][586]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.10.09-16.15.36:218][586]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.10.09-16.15.36:218][586]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.10.09-16.15.36:218][586]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.10.09-16.15.36:218][586]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.10.09-16.15.36:218][586]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.10.09-16.15.36:218][586]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.10.09-16.15.36:218][586]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.10.09-16.15.36:218][586]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.10.09-16.15.36:218][586]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.10.09-16.15.36:218][586]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.10.09-16.15.36:218][586]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.10.09-16.15.36:218][586]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.10.09-16.15.36:218][586]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.10.09-16.15.36:221][586]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.10.09-16.15.36:221][586]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.10.09-16.15.36:221][586]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.10.09-16.15.36:221][586]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.10.09-16.15.36:221][586]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.10.09-16.15.36:221][586]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.10.09-16.15.36:221][586]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.10.09-16.15.36:221][586]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.10.09-16.15.36:221][586]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.10.09-16.15.36:221][586]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.10.09-16.15.36:221][586]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.10.09-16.15.36:221][586]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.10.09-16.15.36:221][586]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.10.09-16.15.36:221][586]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.10.09-16.15.36:221][586]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.10.09-16.15.36:221][586]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.10.09-16.15.36:221][586]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.10.09-16.15.36:222][586]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.10.09-16.15.36:224][586]LogDerivedDataCache: Shutdown
+[2018.10.09-16.15.36:224][586]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.10.09-16.15.36:224][586]LogXGEController: Cleaning working directory: C:/Users/matti/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.09-16.15.36:224][586]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.10.09-16.15.36:225][586]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.10.09-16.15.36:232][586]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.10.09-16.15.36:232][586]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.10.09-16.15.36:236][586]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.10.09-16.15.36:236][586]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.10.09-16.15.36:272][586]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.10.09-16.15.36:272][586]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.10.09-16.15.36:272][586]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.10.09-16.15.36:272][586]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.10.09-16.15.36:272][586]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.10.09-16.15.36:272][586]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.10.09-16.15.36:272][586]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.10.09-16.15.36:272][586]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.10.09-16.15.36:272][586]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.10.09-16.15.36:272][586]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.09-16.15.36:272][586]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.09-16.15.36:273][586]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.09-16.15.36:273][586]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.09-16.15.36:273][586]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.09-16.15.36:273][586]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.09-16.15.36:273][586]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.09-16.15.36:273][586]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.09-16.15.36:273][586]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.09-16.15.36:274][586]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.09-16.15.36:274][586]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.09-16.15.36:286][586]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.09-16.15.36:286][586]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.09-16.15.36:286][586]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B52CFA447-4D94-3D1B-C989-3989128E0F11%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=4308b89440f3b3b2c5f3dd938d923abd%7Ced544e3297d747b998149b229ca9add4%7C407ca9e2-b50e-4ab8-810e-74cea2df215b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.09-16.15.36:314][586]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.09-16.15.36:315][586]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.09-16.15.36:315][586]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.09-16.15.36:315][586]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.09-16.15.36:315][586]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.09-16.15.36:315][586]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.09-16.15.36:315][586]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.09-16.15.36:315][586]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.09-16.15.36:315][586]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.09-16.15.36:315][586]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.09-16.15.36:316][586]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.09-16.15.36:316][586]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.09-16.15.36:316][586]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.09-16.15.36:316][586]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.09-16.15.36:316][586]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.09-16.15.36:316][586]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.09-16.15.36:316][586]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.09-16.15.36:316][586]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.09-16.15.36:316][586]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.09-16.15.36:317][586]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.09-16.15.36:317][586]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.09-16.15.36:317][586]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.09-16.15.36:317][586]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.09-16.15.36:317][586]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.09-16.15.36:317][586]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.09-16.15.36:317][586]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.09-16.15.36:317][586]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.09-16.15.36:317][586]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.09-16.15.36:317][586]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.09-16.15.36:317][586]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.09-16.15.36:323][586]LogExit: Exiting.
+[2018.10.09-16.15.36:335][586]Log file closed, 10/09/18 17:15:36
