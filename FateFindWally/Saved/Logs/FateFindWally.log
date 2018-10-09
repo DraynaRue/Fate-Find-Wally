@@ -2085,3 +2085,638 @@ LogInit: Object subsystem initialized
 [2018.10.09-14.31.53:521][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2018.10.09-14.31.53:577][160]LogPlayLevel: Display: Destroying online subsystem :Context_12
 [2018.10.09-14.31.56:678][235]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-14.35.40:397][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow13)
+[2018.10.09-14.35.47:569][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.35.56:003][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.36.16:430][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.36.43:124][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.36.48:545][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.36.52:584][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.36.55:884][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.37.02:898][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.37.22:272][275]Cmd: EDIT COPY
+[2018.10.09-14.37.22:599][313]Cmd: EDIT PASTE
+[2018.10.09-14.38.09:488][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.38.12:981][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.38.19:628][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.38.27:349][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.38.35:938][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.38.47:058][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.38.51:339][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.39.23:156][601]Cmd: EDIT COPY
+[2018.10.09-14.39.23:720][668]Cmd: EDIT PASTE
+[2018.10.09-14.39.43:508][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow46)
+[2018.10.09-14.39.47:126][343]Cmd: TRANSACTION UNDO
+[2018.10.09-14.39.47:126][343]LogEditorTransaction: Undo Clicking on Actors
+[2018.10.09-14.39.56:059][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow46)
+[2018.10.09-14.39.57:709][502]Cmd: TRANSACTION UNDO
+[2018.10.09-14.39.57:709][502]LogEditorTransaction: Undo Clicking on Actors
+[2018.10.09-14.40.05:259][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow46)
+[2018.10.09-14.40.17:944][860]LogEditorViewport: Clicking Background
+[2018.10.09-14.40.28:352][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.40.39:908][438]Cmd: EDIT COPY
+[2018.10.09-14.40.40:145][463]Cmd: EDIT PASTE
+[2018.10.09-14.40.54:862][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow52)
+[2018.10.09-14.40.55:843][257]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-14.40.56:236][257]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap9C8F5BAE432A0EE3BE1441B8BA337FE1.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-14.40.56:680][257]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData6AF5BF3140FCE32AB803D485D5911CC9.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-14.42.20:841][ 54]Cmd: DELETE
+[2018.10.09-14.42.20:841][ 54]Cmd: ACTOR DELETE
+[2018.10.09-14.42.20:850][ 54]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.42.20:908][ 54]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2018.10.09-14.42.50:978][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.43.14:237][194]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-14.43.14:583][194]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap9F9D8F564150A94A46403CBA5925324C.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-14.43.15:000][194]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataE27C01CD4D774112A51E3D94AE5B8CD0.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-14.43.43:560][485]Cmd: DELETE
+[2018.10.09-14.43.43:560][485]Cmd: ACTOR DELETE
+[2018.10.09-14.43.43:568][485]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.43.43:626][485]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2018.10.09-14.43.45:308][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.44.19:956][529]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-14.44.20:291][529]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap9B6302764F5BF75BE84A118C4F1BF576.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-14.44.20:718][529]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData82AEB0244D955055C0B86DA722467E95.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-14.44.30:442][629]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush39)
+[2018.10.09-14.44.41:850][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.45.07:958][985]Cmd: TRANSACTION UNDO
+[2018.10.09-14.45.07:958][985]LogEditorTransaction: Undo Select Brush Surface
+[2018.10.09-14.45.08:610][ 57]Cmd: TRANSACTION UNDO
+[2018.10.09-14.45.08:610][ 57]LogEditorTransaction: Undo Move Actors
+[2018.10.09-14.45.08:640][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.10.09-14.45.08:641][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush36.BrushComponent0) Component already registered.
+[2018.10.09-14.45.08:644][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush19.BrushComponent0) Component already registered.
+[2018.10.09-14.45.08:645][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush88.BrushComponent0) Component already registered.
+[2018.10.09-14.45.08:646][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush49.BrushComponent0) Component already registered.
+[2018.10.09-14.45.08:647][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush62.BrushComponent0) Component already registered.
+[2018.10.09-14.45.08:647][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush65.BrushComponent0) Component already registered.
+[2018.10.09-14.45.08:647][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush60_18.BrushComponent0) Component already registered.
+[2018.10.09-14.45.09:624][169]Cmd: TRANSACTION UNDO
+[2018.10.09-14.45.09:624][169]LogEditorTransaction: Undo Move Actors
+[2018.10.09-14.45.09:655][169]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.10.09-14.45.09:656][169]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush36.BrushComponent0) Component already registered.
+[2018.10.09-14.45.09:659][169]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush19.BrushComponent0) Component already registered.
+[2018.10.09-14.45.09:660][169]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush88.BrushComponent0) Component already registered.
+[2018.10.09-14.45.09:661][169]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush49.BrushComponent0) Component already registered.
+[2018.10.09-14.45.09:661][169]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush62.BrushComponent0) Component already registered.
+[2018.10.09-14.45.09:662][169]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush65.BrushComponent0) Component already registered.
+[2018.10.09-14.45.09:662][169]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush60_18.BrushComponent0) Component already registered.
+[2018.10.09-14.45.10:626][280]Cmd: TRANSACTION UNDO
+[2018.10.09-14.45.10:626][280]LogEditorTransaction: Undo Edit Z
+[2018.10.09-14.45.10:656][280]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2018.10.09-14.45.10:657][280]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush39.BrushComponent0) Component already registered.
+[2018.10.09-14.45.10:657][280]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush37.BrushComponent0) Component already registered.
+[2018.10.09-14.45.10:658][280]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2018.10.09-14.45.10:658][280]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2018.10.09-14.45.10:661][280]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush78.BrushComponent0) Component already registered.
+[2018.10.09-14.45.10:661][280]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush79.BrushComponent0) Component already registered.
+[2018.10.09-14.45.10:661][280]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush71.BrushComponent0) Component already registered.
+[2018.10.09-14.45.10:662][280]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush88.BrushComponent0) Component already registered.
+[2018.10.09-14.45.10:663][280]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2018.10.09-14.45.10:663][280]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush47.BrushComponent0) Component already registered.
+[2018.10.09-14.45.10:663][280]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush62.BrushComponent0) Component already registered.
+[2018.10.09-14.45.10:663][280]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush65.BrushComponent0) Component already registered.
+[2018.10.09-14.45.10:664][280]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush56.BrushComponent0) Component already registered.
+[2018.10.09-14.45.23:846][800]Cmd: TRANSACTION UNDO
+[2018.10.09-14.45.23:846][800]LogEditorTransaction: Undo Select Brush Surface
+[2018.10.09-14.45.24:874][917]Cmd: TRANSACTION UNDO
+[2018.10.09-14.45.24:874][917]LogEditorTransaction: Undo Select Brush Surface
+[2018.10.09-14.45.25:540][993]Cmd: TRANSACTION UNDO
+[2018.10.09-14.45.25:540][993]LogEditorTransaction: Undo Select Brush Surface
+[2018.10.09-14.45.26:671][125]Cmd: TRANSACTION UNDO
+[2018.10.09-14.45.26:671][125]LogEditorTransaction: Undo Select Brush Surface
+[2018.10.09-14.45.27:274][194]Cmd: TRANSACTION UNDO
+[2018.10.09-14.45.27:274][194]LogEditorTransaction: Undo Clicking on Actors
+[2018.10.09-14.45.28:051][282]Cmd: TRANSACTION UNDO
+[2018.10.09-14.45.28:051][282]LogEditorTransaction: Undo Select Brush Surface
+[2018.10.09-14.45.28:547][337]Cmd: TRANSACTION UNDO
+[2018.10.09-14.45.28:547][337]LogEditorTransaction: Undo Select Brush Surface
+[2018.10.09-14.45.40:028][634]Cmd: TRANSACTION UNDO
+[2018.10.09-14.45.40:028][634]LogEditorTransaction: Undo Move Actors
+[2018.10.09-14.45.40:059][634]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.10.09-14.45.40:059][634]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush36.BrushComponent0) Component already registered.
+[2018.10.09-14.45.40:062][634]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush19.BrushComponent0) Component already registered.
+[2018.10.09-14.45.40:064][634]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush88.BrushComponent0) Component already registered.
+[2018.10.09-14.45.40:065][634]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush49.BrushComponent0) Component already registered.
+[2018.10.09-14.45.40:065][634]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush62.BrushComponent0) Component already registered.
+[2018.10.09-14.45.40:065][634]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush65.BrushComponent0) Component already registered.
+[2018.10.09-14.45.40:065][634]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush60_18.BrushComponent0) Component already registered.
+[2018.10.09-14.45.40:765][711]Cmd: TRANSACTION UNDO
+[2018.10.09-14.45.40:765][711]LogEditorTransaction: Undo Move Actors
+[2018.10.09-14.45.40:795][711]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.10.09-14.45.40:796][711]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush36.BrushComponent0) Component already registered.
+[2018.10.09-14.45.40:799][711]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush19.BrushComponent0) Component already registered.
+[2018.10.09-14.45.40:800][711]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush88.BrushComponent0) Component already registered.
+[2018.10.09-14.45.40:801][711]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush49.BrushComponent0) Component already registered.
+[2018.10.09-14.45.40:801][711]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush62.BrushComponent0) Component already registered.
+[2018.10.09-14.45.40:802][711]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush65.BrushComponent0) Component already registered.
+[2018.10.09-14.45.40:802][711]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush60_18.BrushComponent0) Component already registered.
+[2018.10.09-14.45.48:977][621]Cmd: TRANSACTION REDO
+[2018.10.09-14.45.48:977][621]LogEditorTransaction: Redo Move Actors
+[2018.10.09-14.45.49:234][638]Cmd: TRANSACTION REDO
+[2018.10.09-14.45.49:234][638]LogEditorTransaction: Redo Move Actors
+[2018.10.09-14.45.54:986][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.46.29:308][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.46.33:864][658]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-14.46.36:610][978]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-14.46.41:819][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.47.19:111][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.47.30:220][192]Cmd: EDIT COPY
+[2018.10.09-14.47.31:735][373]Cmd: DELETE
+[2018.10.09-14.47.31:735][373]Cmd: ACTOR DELETE
+[2018.10.09-14.47.31:744][373]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.47.31:807][373]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2018.10.09-14.47.32:694][476]Cmd: EDIT PASTE
+[2018.10.09-14.47.37:771][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-14.47.38:151][ 70]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap97E9CAF647D9455765D215B37F51E1A2.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-14.47.38:578][ 70]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataACB38F134B78B49BCE12D3873C095305.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-14.47.43:365][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow14)
+[2018.10.09-14.48.10:093][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.48.19:266][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.48.34:848][567]Cmd: DELETE
+[2018.10.09-14.48.34:848][567]Cmd: ACTOR DELETE
+[2018.10.09-14.48.34:858][567]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.48.34:918][567]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2018.10.09-14.48.39:803][121]Cmd: DELETE
+[2018.10.09-14.48.39:803][121]Cmd: ACTOR DELETE
+[2018.10.09-14.48.39:812][121]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.48.39:869][121]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2018.10.09-14.48.43:561][555]Cmd: EDIT COPY
+[2018.10.09-14.48.43:946][601]Cmd: EDIT PASTE
+[2018.10.09-14.49.13:426][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.49.54:740][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.50.00:816][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.50.06:082][100]Cmd: EDIT COPY
+[2018.10.09-14.50.07:427][260]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.50.07:484][260]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2018.10.09-14.50.08:295][354]Cmd: EDIT PASTE
+[2018.10.09-14.50.10:365][545]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap5AEE46F44ABB40FEE077A38EF34ADE72.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-14.50.10:775][545]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataA7187FB6494CF2A6853D67B9E7A9A098.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-14.50.11:368][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.50.16:363][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.50.27:290][488]Cmd: EDIT COPY
+[2018.10.09-14.50.28:594][643]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.50.28:594][643]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.50.28:595][643]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.50.28:595][643]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.50.28:653][643]LogEditorActor: Deleted 4 Actors (0.068 secs)
+[2018.10.09-14.50.29:590][752]Cmd: EDIT PASTE
+[2018.10.09-14.50.31:207][891]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMapFFE2CC7848277C11126B12A27CCA0ECD.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-14.50.31:612][891]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData47EAE6D44602BB86C94C2B9DD4562996.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-14.50.33:113][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.50.41:216][ 12]Cmd: EDIT COPY
+[2018.10.09-14.50.42:184][127]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.50.42:242][127]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2018.10.09-14.50.43:054][221]Cmd: EDIT PASTE
+[2018.10.09-14.50.44:520][343]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap527BCF194CACE4D09B060297C89FAC7D.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-14.50.44:929][343]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData081239D44EC70199697539A41ED1678D.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-14.50.46:106][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.51.05:313][752]Cmd: EDIT COPY
+[2018.10.09-14.51.06:409][882]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.51.06:410][882]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.51.06:410][882]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.51.06:410][882]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.51.06:411][882]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.51.06:411][882]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.51.06:411][882]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.51.06:412][882]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.51.06:468][882]LogEditorActor: Deleted 8 Actors (0.067 secs)
+[2018.10.09-14.51.07:454][997]Cmd: EDIT PASTE
+[2018.10.09-14.51.08:813][105]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap358EED234E0DC1C862272F8CFA8A9F3F.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-14.51.09:217][105]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData8633E13241149719F7253D9A2ACBC5FC.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-14.51.09:913][170]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.10.09-14.51.48:221][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.52.08:124][854]Cmd: EDIT COPY
+[2018.10.09-14.52.08:481][896]Cmd: EDIT PASTE
+[2018.10.09-14.52.10:515][125]Cmd: DELETE
+[2018.10.09-14.52.10:515][125]Cmd: ACTOR DELETE
+[2018.10.09-14.52.10:524][125]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.52.10:583][125]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2018.10.09-14.52.13:329][446]Cmd: TRANSACTION UNDO
+[2018.10.09-14.52.13:329][446]LogEditorTransaction: Undo Select Brush Surface
+[2018.10.09-14.52.15:340][685]Cmd: TRANSACTION UNDO
+[2018.10.09-14.52.15:341][685]LogEditorTransaction: Undo Delete Actors
+[2018.10.09-14.52.15:371][685]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush37.BrushComponent0) Component already registered.
+[2018.10.09-14.52.15:372][685]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush39.BrushComponent0) Component already registered.
+[2018.10.09-14.52.15:372][685]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush42_8.BrushComponent0) Component already registered.
+[2018.10.09-14.52.15:375][685]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.10.09-14.52.15:376][685]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush19.BrushComponent0) Component already registered.
+[2018.10.09-14.52.15:377][685]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush53_65.BrushComponent0) Component already registered.
+[2018.10.09-14.52.15:378][685]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush65.BrushComponent0) Component already registered.
+[2018.10.09-14.52.15:378][685]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush79.BrushComponent0) Component already registered.
+[2018.10.09-14.52.15:378][685]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush80.BrushComponent0) Component already registered.
+[2018.10.09-14.52.15:379][685]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush75.BrushComponent0) Component already registered.
+[2018.10.09-14.52.16:357][797]Cmd: TRANSACTION UNDO
+[2018.10.09-14.52.16:357][797]LogEditorTransaction: Undo Paste
+[2018.10.09-14.52.16:395][797]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush23.BrushComponent0) Component already registered.
+[2018.10.09-14.52.16:395][797]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush87.BrushComponent0) Component already registered.
+[2018.10.09-14.52.17:260][896]Cmd: TRANSACTION UNDO
+[2018.10.09-14.52.17:260][896]LogEditorTransaction: Undo Move Actors
+[2018.10.09-14.52.17:290][896]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush36.BrushComponent0) Component already registered.
+[2018.10.09-14.52.17:290][896]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush37.BrushComponent0) Component already registered.
+[2018.10.09-14.52.17:290][896]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush56.BrushComponent0) Component already registered.
+[2018.10.09-14.52.17:290][896]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush57.BrushComponent0) Component already registered.
+[2018.10.09-14.52.17:291][896]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush44.BrushComponent0) Component already registered.
+[2018.10.09-14.52.17:294][896]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.10.09-14.52.17:295][896]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush53_65.BrushComponent0) Component already registered.
+[2018.10.09-14.52.17:296][896]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush7_58.BrushComponent0) Component already registered.
+[2018.10.09-14.52.17:296][896]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush47_59.BrushComponent0) Component already registered.
+[2018.10.09-14.52.17:296][896]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush68.BrushComponent0) Component already registered.
+[2018.10.09-14.52.17:296][896]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush69.BrushComponent0) Component already registered.
+[2018.10.09-14.52.17:297][896]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush62.BrushComponent0) Component already registered.
+[2018.10.09-14.52.17:297][896]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush82.BrushComponent0) Component already registered.
+[2018.10.09-14.52.17:297][896]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush75.BrushComponent0) Component already registered.
+[2018.10.09-14.52.19:270][128]Cmd: TRANSACTION REDO
+[2018.10.09-14.52.19:270][128]LogEditorTransaction: Redo Move Actors
+[2018.10.09-14.52.20:088][217]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-14.52.20:430][217]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap2ACDAAE74C7FC43A9A7939B0B5371D36.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-14.52.20:841][217]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataF2838DBC4DC9B9C839720B9D190BA245.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-14.52.33:310][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.52.39:810][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.53.03:254][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.09-14.53.05:459][280]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-14.53.05:807][280]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap6A6A491D4A7CF0331DE746998D1DEFB6.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-14.53.06:230][280]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData3973645E44CAE85A07528A8994B7A66B.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-14.53.17:766][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.53.36:010][636]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-14.53.36:350][636]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap46831B8D48D5DE94D0E33EA044D89E55.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-14.53.36:757][636]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData3A31AAD9497D319200578CAEEF798006.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-14.54.50:220][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.54.53:731][540]Cmd: EDCALLBACK SURFPROPS
+[2018.10.09-14.55.17:428][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.55.25:394][255]Cmd: DELETE
+[2018.10.09-14.55.25:394][255]Cmd: ACTOR DELETE
+[2018.10.09-14.55.25:403][255]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.55.25:464][255]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2018.10.09-14.55.26:304][346]Cmd: DELETE
+[2018.10.09-14.55.26:304][346]Cmd: ACTOR DELETE
+[2018.10.09-14.55.26:312][346]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.55.26:371][346]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2018.10.09-14.55.50:028][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.56.33:399][ 17]Cmd: EDCALLBACK SURFPROPS
+[2018.10.09-14.56.48:697][762]Cmd: DELETE
+[2018.10.09-14.56.48:697][762]Cmd: ACTOR DELETE
+[2018.10.09-14.56.48:706][762]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.56.48:764][762]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2018.10.09-14.56.57:923][814]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2018.10.09-14.56.59:292][973]Cmd: DELETE
+[2018.10.09-14.56.59:292][973]Cmd: ACTOR DELETE
+[2018.10.09-14.56.59:300][973]LogEditorActor: Deleted Actor: TextRenderActor
+[2018.10.09-14.56.59:316][973]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.10.09-14.57.03:773][484]Cmd: DELETE
+[2018.10.09-14.57.03:773][484]Cmd: ACTOR DELETE
+[2018.10.09-14.57.03:782][484]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.57.03:839][484]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2018.10.09-14.57.08:809][ 57]Cmd: DELETE
+[2018.10.09-14.57.08:809][ 57]Cmd: ACTOR DELETE
+[2018.10.09-14.57.08:818][ 57]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.57.08:875][ 57]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2018.10.09-14.57.18:580][183]Cmd: EDIT COPY
+[2018.10.09-14.57.18:856][215]Cmd: EDIT PASTE
+[2018.10.09-14.57.35:018][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-14.57.35:560][ 19]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap773624554139B1AF7495A5B206370FC5.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-14.57.35:970][ 19]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataB0F5D6B940F6559E8166D6B0C907D2A8.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-14.57.46:097][176]Cmd: DELETE
+[2018.10.09-14.57.46:097][176]Cmd: ACTOR DELETE
+[2018.10.09-14.57.46:107][176]LogEditorActor: Deleted Actor: Brush
+[2018.10.09-14.57.46:170][176]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2018.10.09-14.57.51:030][730]Cmd: EDIT COPY
+[2018.10.09-14.57.51:480][783]Cmd: EDIT PASTE
+[2018.10.09-14.58.51:183][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.59.15:393][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.59.39:790][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-14.59.50:894][359]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-14.59.51:250][359]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap49590C91480B33F903E091A07840ECC2.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-14.59.51:683][359]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData55E280D847DE136E51D3F18F47C45A64.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.00.29:331][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.00.43:620][323]Cmd: EDCALLBACK SURFPROPS
+[2018.10.09-15.00.46:269][631]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.00.46:598][631]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap3494240446E9ACB2C45ECFA508D2284F.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.00.46:994][631]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData11BDA321421DBB684D66FEB0B03E5483.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.00.59:972][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.01.36:929][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.02.04:313][566]Cmd: EDCALLBACK SURFPROPS
+[2018.10.09-15.02.20:001][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.02.47:503][477]Cmd: EDIT COPY
+[2018.10.09-15.02.47:748][506]Cmd: EDIT PASTE
+[2018.10.09-15.02.58:456][707]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.02.58:809][707]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMapA074988148FC59F4873779A909C963ED.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.02.59:217][707]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataF69EF042454F20DA4F15208FD1396259.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.03.03:271][149]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight11)
+[2018.10.09-15.03.06:053][447]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2018.10.09-15.03.10:245][915]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight11)
+[2018.10.09-15.03.11:307][ 24]Cmd: EDIT COPY
+[2018.10.09-15.03.11:593][ 58]Cmd: EDIT PASTE
+[2018.10.09-15.03.19:164][891]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.03.19:497][891]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap6174D0C9485DC4A3460D368C81634887.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.03.19:916][891]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData0FDF7CB5465E98968FF6FFB039C0A2AE.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.03.21:043][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.03.21:168][ 24]MapCheck: New page: Map Check
+[2018.10.09-15.03.21:179][ 24]Cmd: MAP REBUILD ALLVISIBLE
+[2018.10.09-15.03.21:179][ 24]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.10.09-15.03.21:389][ 24]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterialOverride, compiling. 
+[2018.10.09-15.03.21:393][ 24]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.10.09-15.03.21:398][ 24]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.10.09-15.03.21:403][ 24]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.09-15.03.21:404][ 24]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.09-15.03.21:404][ 24]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-15.03.21:404][ 24]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.10.09-15.03.21:410][ 24]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.10.09-15.03.21:415][ 24]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.10.09-15.03.21:420][ 24]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2018.10.09-15.03.21:426][ 24]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.10.09-15.03.21:432][ 24]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Bush, compiling. 
+[2018.10.09-15.03.21:437][ 24]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.09-15.03.21:437][ 24]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.10.09-15.03.21:444][ 24]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.10.09-15.03.21:452][ 24]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.10.09-15.03.21:462][ 24]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2018.10.09-15.03.21:470][ 24]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.10.09-15.03.22:486][ 24]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.09-15.03.22:486][ 24]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.09-15.03.22:486][ 24]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.09-15.03.22:486][ 24]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.09-15.03.22:486][ 24]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.09-15.03.22:486][ 24]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.09-15.03.22:486][ 24]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.09-15.03.22:486][ 24]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.09-15.03.22:486][ 24]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.09-15.03.22:486][ 24]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-15.03.22:486][ 24]TextureStreamingBuild: Display: Compiling optional shaders took 1.101 seconds.
+[2018.10.09-15.03.22:495][ 24]LogLevel: Display: Export Material TexCoord Scales took 0.009 seconds.
+[2018.10.09-15.03.22:561][ 24]TextureStreamingBuild: Display: Build Texture Streaming took 0.065 seconds.
+[2018.10.09-15.03.22:581][ 24]LightingResults: New page: Lighting Build - 9 Oct 2018 17:03:22
+[2018.10.09-15.03.22:592][ 24]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.09-15.03.22:594][ 24]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.09-15.03.22:595][ 24]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.09-15.03.25:606][ 24]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.09-15.03.25:606][ 24]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16020
+[2018.10.09-15.03.30:114][ 24]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.09-15.03.30:114][ 24]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.09-15.03.30:114][ 24]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.09-15.03.30:114][ 24]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.09-15.03.30:114][ 24]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.09-15.03.30:224][ 24]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.10.09-15.03.30:224][ 24]MapCheck: New page: FirstPersonExampleMap - 9 Oct 2018 17:03:30
+[2018.10.09-15.03.30:224][ 24]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2018.10.09-15.03.30:301][ 24]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 76.656ms to complete.
+[2018.10.09-15.03.30:323][ 24]LogEditorBuildUtils: Build time 0:09
+[2018.10.09-15.03.30:329][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.03.53:153][803]Job is a success!
+[2018.10.09-15.03.53:231][805]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.023s
+[2018.10.09-15.03.53:231][805]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.09-15.03.53:231][805]LogVolumetricLightmapImport:      BrickData 1210x5x5 = 1.2Mb (trimmed 0.8Mb due to 0.010000 MinBrickError)
+[2018.10.09-15.03.53:231][805]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.09-15.03.53:231][805]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2018.10.09-15.03.53:231][805]LogVolumetricLightmapImport:          1: 5.0% covering 18.8% of volume
+[2018.10.09-15.03.53:232][805]LogVolumetricLightmapImport:          2: 94.6% covering 5.6% of volume
+[2018.10.09-15.03.55:450][805]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2018.10.09-15.03.55:450][805]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2018.10.09-15.03.55:450][805]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2018.10.09-15.03.55:450][805]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2018.10.09-15.03.55:450][805]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.10.09-15.03.55:450][805]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.10.09-15.03.55:451][805]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 128X64)
+[2018.10.09-15.03.55:451][805]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 128X128)
+[2018.10.09-15.03.55:451][805]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 128X128)
+[2018.10.09-15.03.55:451][805]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 64X32)
+[2018.10.09-15.03.55:451][805]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2018.10.09-15.03.55:451][805]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2018.10.09-15.03.55:655][805]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 32X32)
+[2018.10.09-15.03.55:655][805]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 1024X128)
+[2018.10.09-15.03.55:655][805]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 512X512)
+[2018.10.09-15.03.55:655][805]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 1024X1024)
+[2018.10.09-15.03.55:667][805]Lightmass on DRAYNARUE-DESKT: 24.4 sec total, 142 ms importing, 161 ms setup, 4.79 sec photons, 19.3 sec processing, 0 ms extra exporting [477/477 mappings]. Threads: 2:15 min total, 1:24 min processing.
+[2018.10.09-15.03.55:708][805]LogStaticLightingSystem: Illumination: 33.1 sec (1.99 sec encoding lightmaps, 204 ms encoding shadowmaps)
+[2018.10.09-15.03.55:709][805]LogStaticLightingSystem: Lightmap texture memory:  13.4 MB (10.7 MB streaming, 2.7 MB non-streaming), 8 textures
+[2018.10.09-15.03.55:709][805]LogStaticLightingSystem: Shadowmap texture memory: 1.8 MB (1.5 MB streaming, 0.3 MB non-streaming), 4 textures
+[2018.10.09-15.03.56:136][805]DumpUnbuiltLightIteractions
+[2018.10.09-15.03.56:137][805]Lights with unbuilt interactions: 0
+[2018.10.09-15.03.56:137][805]
+[2018.10.09-15.03.56:137][805]Primitives with unbuilt interactions: 0
+[2018.10.09-15.03.56:141][805]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.03.56:214][806]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.09-15.03.56:215][806]MapCheck: New page: FirstPersonExampleMap - 9 Oct 2018 17:03:56
+[2018.10.09-15.03.56:287][806]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71.87ms to complete.
+[2018.10.09-15.03.58:458][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.03.58:532][ 74]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-15.03.58:535][ 74]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-15.04.00:149][267]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.04.00:474][267]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMapCC5E74494605FF9E116764B71686F9FD.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.04.00:898][267]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataEFB8D5D848F01C526CC783950C421A3B.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.04.18:852][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.04.18:969][336]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.09-15.04.18:979][336]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.04.18:979][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-15.04.18:979][336]PIE: New page: PIE session: FirstPersonExampleMap (9 Oct 2018 17:04:18)
+[2018.10.09-15.04.18:979][336]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.09-15.04.19:013][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033656s)
+[2018.10.09-15.04.19:014][336]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.09-15.04.19:014][336]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2018.10.09-15.04.19:014][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.034748s)
+[2018.10.09-15.04.19:077][336]LogInit: XAudio2 using 'DELL S2316H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-15.04.19:088][336]LogInit: FAudioDevice initialized.
+[2018.10.09-15.04.19:122][336]LogLoad: Game class is 'FateFindWallyGameMode'
+[2018.10.09-15.04.19:128][336]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.09-16.04.19
+[2018.10.09-15.04.19:128][336]LogWorld: Bringing up level for play took: 0.005202
+[2018.10.09-15.04.19:140][336]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.1
+[2018.10.09-15.04.19:147][336]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.05.28:055][599]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=391.384 Y=-3855.434 Z=217.550] for [FirstPersonProjectile_C]
+[2018.10.09-15.05.38:105][805]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.05.38:105][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-15.05.38:140][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-15.05.38:140][805]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.05.38:162][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-15.05.38:211][808]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.10.09-15.05.47:706][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.05.47:764][866]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.09-15.05.47:774][866]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.05.47:774][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-15.05.47:774][866]PIE: New page: PIE session: FirstPersonExampleMap (9 Oct 2018 17:05:47)
+[2018.10.09-15.05.47:775][866]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.09-15.05.47:805][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030633s)
+[2018.10.09-15.05.47:806][866]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.09-15.05.47:806][866]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2018.10.09-15.05.47:806][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.031642s)
+[2018.10.09-15.05.47:864][866]LogInit: XAudio2 using 'DELL S2316H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-15.05.47:875][866]LogInit: FAudioDevice initialized.
+[2018.10.09-15.05.47:909][866]LogLoad: Game class is 'FateFindWallyGameMode'
+[2018.10.09-15.05.47:915][866]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.09-16.05.47
+[2018.10.09-15.05.47:915][866]LogWorld: Bringing up level for play took: 0.005204
+[2018.10.09-15.05.47:928][866]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.887
+[2018.10.09-15.05.47:934][866]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.06.43:167][487]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.06.43:167][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-15.06.43:203][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-15.06.43:203][487]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.06.43:223][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-15.06.43:268][491]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.10.09-15.09.50:137][662]Cmd: EDIT COPY
+[2018.10.09-15.09.50:436][697]Cmd: EDIT PASTE
+[2018.10.09-15.10.26:884][838]Cmd: EDIT COPY
+[2018.10.09-15.10.27:156][870]Cmd: EDIT PASTE
+[2018.10.09-15.10.53:789][900]Cmd: EDIT COPY
+[2018.10.09-15.10.54:188][947]Cmd: EDIT PASTE
+[2018.10.09-15.11.14:280][213]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.11.14:781][213]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap5D02DD754DBADFA3DDA48ABB21C0501A.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.11.15:235][213]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData04848C244A9CB560E069D6BB98368D5F.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.11.16:797][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.11.16:889][395]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.09-15.11.16:900][395]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.11.16:900][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-15.11.16:900][395]PIE: New page: PIE session: FirstPersonExampleMap (9 Oct 2018 17:11:16)
+[2018.10.09-15.11.16:900][395]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.09-15.11.16:933][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032572s)
+[2018.10.09-15.11.16:933][395]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.09-15.11.16:934][395]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2018.10.09-15.11.16:934][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.033617s)
+[2018.10.09-15.11.17:000][395]LogInit: XAudio2 using 'DELL S2316H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-15.11.17:011][395]LogInit: FAudioDevice initialized.
+[2018.10.09-15.11.17:043][395]LogLoad: Game class is 'FateFindWallyGameMode'
+[2018.10.09-15.11.17:049][395]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.09-16.11.17
+[2018.10.09-15.11.17:050][395]LogWorld: Bringing up level for play took: 0.005456
+[2018.10.09-15.11.17:062][395]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.022
+[2018.10.09-15.11.17:063][395]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.11.35:856][647]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.11.35:856][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-15.11.35:890][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-15.11.35:891][647]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.11.35:909][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-15.11.35:963][652]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.10.09-15.11.47:913][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow53)
+[2018.10.09-15.12.08:673][490]Cmd: EDIT COPY
+[2018.10.09-15.12.08:887][512]Cmd: EDIT PASTE
+[2018.10.09-15.12.25:933][453]Cmd: EDIT COPY
+[2018.10.09-15.12.26:166][480]Cmd: EDIT PASTE
+[2018.10.09-15.12.33:200][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow57)
+[2018.10.09-15.12.37:334][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow55)
+[2018.10.09-15.12.47:600][880]Cmd: EDIT COPY
+[2018.10.09-15.12.47:831][907]Cmd: EDIT PASTE
+[2018.10.09-15.12.57:629][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.12.58:002][ 40]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap4066167B48A439E9BFED978247D7BB50.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.12.58:432][ 40]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltDataA4C7A22D41CA7B29CB3AFEA39448E135.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.12.58:963][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.12.59:054][ 96]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.09-15.12.59:065][ 96]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.12.59:065][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-15.12.59:065][ 96]PIE: New page: PIE session: FirstPersonExampleMap (9 Oct 2018 17:12:59)
+[2018.10.09-15.12.59:065][ 96]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.09-15.12.59:095][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030005s)
+[2018.10.09-15.12.59:096][ 96]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.09-15.12.59:096][ 96]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2018.10.09-15.12.59:096][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.031037s)
+[2018.10.09-15.12.59:156][ 96]LogInit: XAudio2 using 'DELL S2316H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-15.12.59:170][ 96]LogInit: FAudioDevice initialized.
+[2018.10.09-15.12.59:203][ 96]LogLoad: Game class is 'FateFindWallyGameMode'
+[2018.10.09-15.12.59:208][ 96]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.09-16.12.59
+[2018.10.09-15.12.59:208][ 96]LogWorld: Bringing up level for play took: 0.004923
+[2018.10.09-15.12.59:220][ 96]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.18
+[2018.10.09-15.12.59:221][ 96]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.13.09:386][313]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1531.933 Y=284.147 Z=466.341] for [FirstPersonProjectile_C]
+[2018.10.09-15.13.09:753][357]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1499.109 Y=308.636 Z=479.433] for [FirstPersonProjectile_C]
+[2018.10.09-15.13.13:345][788]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1494.630 Y=-92.794 Z=483.444] for [FirstPersonProjectile_C]
+[2018.10.09-15.13.35:003][385]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.13.35:003][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-15.13.35:036][385]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-15.13.35:036][385]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.09-15.13.35:056][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-15.13.35:104][388]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.10.09-15.13.41:144][104]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.13.41:477][104]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMapCB5DF47144B5F05F03F6EAAA64C0D49E.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.13.41:904][104]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData607D9C674FA3D6759A01CF816ED4AF4F.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.14.09:119][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.14.09:210][738]MapCheck: New page: Map Check
+[2018.10.09-15.14.09:221][738]Cmd: MAP REBUILD ALLVISIBLE
+[2018.10.09-15.14.09:221][738]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.10.09-15.14.09:454][738]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterialOverride, compiling. 
+[2018.10.09-15.14.09:459][738]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.10.09-15.14.09:464][738]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-15.14.09:464][738]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.10.09-15.14.09:470][738]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.10.09-15.14.09:476][738]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.09-15.14.09:476][738]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-15.14.09:476][738]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.10.09-15.14.09:481][738]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.10.09-15.14.09:487][738]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2018.10.09-15.14.09:495][738]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.10.09-15.14.09:503][738]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.09-15.14.09:503][738]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Bush, compiling. 
+[2018.10.09-15.14.09:510][738]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.10.09-15.14.09:516][738]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.10.09-15.14.09:523][738]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.10.09-15.14.09:531][738]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2018.10.09-15.14.09:540][738]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.10.09-15.14.10:562][738]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.09-15.14.10:562][738]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.09-15.14.10:562][738]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.09-15.14.10:562][738]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.09-15.14.10:562][738]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.09-15.14.10:562][738]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.09-15.14.10:563][738]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.09-15.14.10:563][738]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.09-15.14.10:563][738]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.09-15.14.10:563][738]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.09-15.14.10:563][738]TextureStreamingBuild: Display: Compiling optional shaders took 1.111 seconds.
+[2018.10.09-15.14.10:574][738]LogLevel: Display: Export Material TexCoord Scales took 0.012 seconds.
+[2018.10.09-15.14.10:646][738]TextureStreamingBuild: Display: Build Texture Streaming took 0.072 seconds.
+[2018.10.09-15.14.10:665][738]LightingResults: New page: Lighting Build - 9 Oct 2018 17:14:10
+[2018.10.09-15.14.10:676][738]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.09-15.14.10:679][738]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.09-15.14.10:679][738]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.09-15.14.31:692][738]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.09-15.14.31:692][738]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16020
+[2018.10.09-15.14.36:202][738]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.09-15.14.36:202][738]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.09-15.14.36:202][738]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.09-15.14.36:202][738]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.09-15.14.36:202][738]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.09-15.14.36:312][738]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.10.09-15.14.36:312][738]MapCheck: New page: FirstPersonExampleMap - 9 Oct 2018 17:14:36
+[2018.10.09-15.14.36:313][738]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2018.10.09-15.14.36:389][738]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 76.569ms to complete.
+[2018.10.09-15.14.36:411][738]LogEditorBuildUtils: Build time 0:27
+[2018.10.09-15.14.36:417][738]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.14.58:462][719]Job is a success!
+[2018.10.09-15.14.58:542][720]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.024s
+[2018.10.09-15.14.58:542][720]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.09-15.14.58:542][720]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.5Mb (trimmed 1.2Mb due to 0.010000 MinBrickError)
+[2018.10.09-15.14.58:542][720]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.09-15.14.58:542][720]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2018.10.09-15.14.58:542][720]LogVolumetricLightmapImport:          1: 4.3% covering 18.8% of volume
+[2018.10.09-15.14.58:542][720]LogVolumetricLightmapImport:          2: 95.3% covering 6.5% of volume
+[2018.10.09-15.15.00:781][720]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2018.10.09-15.15.00:781][720]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2018.10.09-15.15.00:781][720]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2018.10.09-15.15.00:781][720]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2018.10.09-15.15.00:781][720]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.10.09-15.15.00:781][720]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.10.09-15.15.00:781][720]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 256X128)
+[2018.10.09-15.15.00:781][720]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2018.10.09-15.15.00:781][720]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2018.10.09-15.15.00:781][720]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 64X32)
+[2018.10.09-15.15.00:781][720]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2018.10.09-15.15.00:781][720]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2018.10.09-15.15.00:990][720]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 32X32)
+[2018.10.09-15.15.00:990][720]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 1024X128)
+[2018.10.09-15.15.00:990][720]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 512X512)
+[2018.10.09-15.15.00:990][720]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 1024X1024)
+[2018.10.09-15.15.01:004][720]Lightmass on DRAYNARUE-DESKT: 23.7 sec total, 132 ms importing, 157 ms setup, 4.70 sec photons, 18.7 sec processing, 0 ms extra exporting [507/507 mappings]. Threads: 2:11 min total, 1:16 min processing.
+[2018.10.09-15.15.01:042][720]LogStaticLightingSystem: Illumination: 50.3 sec (2.00 sec encoding lightmaps, 207 ms encoding shadowmaps)
+[2018.10.09-15.15.01:042][720]LogStaticLightingSystem: Lightmap texture memory:  13.5 MB (10.8 MB streaming, 2.7 MB non-streaming), 8 textures
+[2018.10.09-15.15.01:042][720]LogStaticLightingSystem: Shadowmap texture memory: 1.8 MB (1.5 MB streaming, 0.3 MB non-streaming), 4 textures
+[2018.10.09-15.15.01:224][720]DumpUnbuiltLightIteractions
+[2018.10.09-15.15.01:224][720]Lights with unbuilt interactions: 0
+[2018.10.09-15.15.01:224][720]
+[2018.10.09-15.15.01:224][720]Primitives with unbuilt interactions: 0
+[2018.10.09-15.15.01:228][720]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.15.01:335][721]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.09-15.15.01:335][721]MapCheck: New page: FirstPersonExampleMap - 9 Oct 2018 17:15:01
+[2018.10.09-15.15.01:408][721]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.952ms to complete.
+[2018.10.09-15.15.03:611][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-15.15.04:756][107]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.15.05:604][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.15.06:015][206]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap3F84BD8546D05EDBDAD84294AAABEBDB.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.10.09-15.15.06:038][206]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.431
+[2018.10.09-15.15.06:455][206]LogSavePackage: Moving '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Saved/FirstPersonExampleMap_BuiltData618E6B994AEBF0FE8F854185EE44CF37.tmp' to '../../../../../../GameDev/Projects/Unreal/FateFindWally/Fate-Find-Wally/FateFindWally/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.09-15.15.09:770][312]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-15.15.10:738][395]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-15.15.10:740][395]LogSlate: Window 'Message Log' being destroyed
