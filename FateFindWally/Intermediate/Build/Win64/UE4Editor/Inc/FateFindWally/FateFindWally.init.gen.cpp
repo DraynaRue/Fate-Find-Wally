@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodeFateFindWally_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/FateFindWally",
 				PKG_CompiledIn | 0x00000000,
-				0x4C7AAE68,
-				0xD51C5125,
+				0x09393C04,
+				0x884117CB,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};
