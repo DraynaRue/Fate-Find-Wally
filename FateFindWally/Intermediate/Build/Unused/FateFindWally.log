@@ -1,4 +1,26 @@
-﻿  Using 'git status' to determine working set for adaptive non-unity build.
-  Target is up to date
+﻿  Performing full C++ include scan (building a new target)
+  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for FateFindWallyEditor (no existing makefile)
+  Using Visual Studio 2017 14.15.26726 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726) and Windows 10.0.15063.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Parsing headers for FateFindWallyEditor
+    Running UnrealHeaderTool "C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\FateFindWally.uproject" "C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\FateFindWallyEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for FateFindWallyEditor in 8.9182786 seconds
+  Building 14 actions with 8 processes...
+    [1/14] PCLaunch.rc
+    [2/14] SharedPCH.Engine.cpp
+    [3/14] FateFindWally.init.gen.cpp
+    [4/14] FateFindWallyHUD.cpp
+    [5/14] FateFindWallyCharacter.gen.cpp
+    [6/14] FateFindWallyGameMode.cpp
+    [7/14] FateFindWallyProjectile.cpp
+    [8/14] FateFindWallyGameMode.gen.cpp
+    [9/14] FateFindWallyHUD.gen.cpp
+    [10/14] FateFindWallyCharacter.cpp
+    [11/14] FateFindWally.cpp
+    [12/14] FateFindWallyProjectile.gen.cpp
+    [13/14] UE4Editor-FateFindWally.lib
+       Creating library C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\UE4Editor\Development\FateFindWally\UE4Editor-FateFindWally.lib and object C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\UE4Editor\Development\FateFindWally\UE4Editor-FateFindWally.exp
+    [14/14] UE4Editor-FateFindWally.dll
+       Creating library C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\UE4Editor\Development\FateFindWally\UE4Editor-FateFindWally.suppressed.lib and object C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\UE4Editor\Development\FateFindWally\UE4Editor-FateFindWally.suppressed.exp
   Deploying FateFindWallyEditor Win64 Development...
-  Total build time: 1.03 seconds (NoActionsToExecute executor: 0.00 seconds)
+  Total build time: 89.79 seconds (Parallel executor: 31.16 seconds)
