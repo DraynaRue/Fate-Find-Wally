@@ -23,9 +23,9 @@
 /wd4838
 /we4668
 /I .
-/I "C:\Temp\Fate Find Wally\FateFindWally\Intermediate\Build\Win64\UE4Editor\Inc\FateFindWally"
-/I "C:\Temp\Fate Find Wally\FateFindWally\Source"
-/I "C:\Temp\Fate Find Wally\FateFindWally\Source\FateFindWally"
+/I C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\UE4Editor\Inc\FateFindWally
+/I C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Source
+/I C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Source\FateFindWally
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -409,12 +409,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\winrt"
-/FI"C:\Temp\Fate Find Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Temp\Fate Find Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Temp\Fate Find Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Temp\Fate Find Wally\FateFindWally\Intermediate\Build\Win64\UE4Editor\Inc\FateFindWally\FateFindWally.init.gen.cpp"
-/FI"C:\Temp\Fate Find Wally\FateFindWally\Intermediate\Build\Win64\UE4Editor\Development\FateFindWally\Definitions.FateFindWally.h"
-/Fo"C:\Temp\Fate Find Wally\FateFindWally\Intermediate\Build\Win64\UE4Editor\Development\FateFindWally\FateFindWally.init.gen.cpp.obj"
+/FI"C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\UE4Editor\Inc\FateFindWally\FateFindWally.init.gen.cpp"
+/FI"C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\UE4Editor\Development\FateFindWally\Definitions.FateFindWally.h"
+/Fo"C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\UE4Editor\Development\FateFindWally\FateFindWally.init.gen.cpp.obj"
 /TP
 /GR-
 /W4

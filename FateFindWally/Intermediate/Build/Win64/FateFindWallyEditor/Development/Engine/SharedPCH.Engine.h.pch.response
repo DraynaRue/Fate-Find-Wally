@@ -185,11 +185,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\winrt"
-/I "C:\Temp\Fate Find Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine"
-/Yc"C:\Temp\Fate Find Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Temp\Fate Find Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Temp\Fate Find Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine\SharedPCH.Engine.cpp"
-/Fo"C:\Temp\Fate Find Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine\SharedPCH.Engine.h.obj"
+/I C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine
+/Yc"C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine\SharedPCH.Engine.cpp"
+/Fo"C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine\SharedPCH.Engine.h.obj"
 /TP
 /GR-
 /W4
