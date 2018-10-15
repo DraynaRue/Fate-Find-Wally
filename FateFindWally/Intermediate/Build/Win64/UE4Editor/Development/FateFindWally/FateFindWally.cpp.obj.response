@@ -401,21 +401,21 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\UE4Editor\Inc\FateFindWally
-/I C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Source
-/I C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Source\FateFindWally
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\INCLUDE"
+/I D:\GameDev\Projects\Unreal\FateWheresWally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\UE4Editor\Inc\FateFindWally
+/I D:\GameDev\Projects\Unreal\FateWheresWally\Fate-Find-Wally\FateFindWally\Source
+/I D:\GameDev\Projects\Unreal\FateWheresWally\Fate-Find-Wally\FateFindWally\Source\FateFindWally
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\winrt"
-/FI"C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Source\FateFindWally\FateFindWally.cpp"
-/FI"C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\UE4Editor\Development\FateFindWally\Definitions.FateFindWally.h"
-/Fo"C:\Temp\MatthewWest\Wally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\UE4Editor\Development\FateFindWally\FateFindWally.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+/FI"D:\GameDev\Projects\Unreal\FateWheresWally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\GameDev\Projects\Unreal\FateWheresWally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\GameDev\Projects\Unreal\FateWheresWally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\FateFindWallyEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\GameDev\Projects\Unreal\FateWheresWally\Fate-Find-Wally\FateFindWally\Source\FateFindWally\FateFindWally.cpp"
+/FI"D:\GameDev\Projects\Unreal\FateWheresWally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\UE4Editor\Development\FateFindWally\Definitions.FateFindWally.h"
+/Fo"D:\GameDev\Projects\Unreal\FateWheresWally\Fate-Find-Wally\FateFindWally\Intermediate\Build\Win64\UE4Editor\Development\FateFindWally\FateFindWally.cpp.obj"
 /TP
 /GR-
 /W4

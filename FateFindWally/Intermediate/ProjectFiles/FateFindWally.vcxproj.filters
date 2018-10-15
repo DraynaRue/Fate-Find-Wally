@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\FateFindWally.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{138C8247-3680-4C40-BDD6-E9BD1018A0FA}</UniqueIdentifier>
+			<UniqueIdentifier>{3AAF30EF-E5F9-48F3-9101-626576BE3EBC}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\FateFindWally.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{76426428-EB67-484D-94F5-D391AB207EC9}</UniqueIdentifier>
+			<UniqueIdentifier>{430EB80F-23D4-4B6B-860F-65D41E8D8AEC}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\FateFindWally">
-			<UniqueIdentifier>{0957E1DC-F0B9-4B75-AD14-86B11340DD96}</UniqueIdentifier>
+			<UniqueIdentifier>{619AFAF1-36E7-4BF3-AB64-95C1203D2978}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\FateFindWally\FateFindWally.Build.cs">
 			<Filter>Source\FateFindWally</Filter>
