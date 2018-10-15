@@ -2,7 +2,6 @@
 
 #include "WallyCharacter.h"
 
-
 // Sets default values
 AWallyCharacter::AWallyCharacter()
 {
@@ -15,14 +14,13 @@ AWallyCharacter::AWallyCharacter()
 void AWallyCharacter::BeginPlay()
 {
 	Super::BeginPlay();
-	
+	SetActorLocation(SpawnLocations[FMath::RandRange(0, 4)]->GetActorLocation());
 }
 
 // Called every frame
 void AWallyCharacter::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-
 }
 
 // Called to bind functionality to input

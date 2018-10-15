@@ -17,7 +17,7 @@ public:
 
 	// Spawn locations
 	UPROPERTY(Category = Gameplay, EditAnywhere, BlueprintReadWrite)
-		TArray<class UBoxComponent*> SpawnLocations;
+		TArray<class AActor*> SpawnLocations;
 	
 protected:
 	// Called when the game starts or when spawned
