@@ -53,12 +53,12 @@ FateFindWally/Binaries/*
 Plugins/*/Binaries/*
 
 # Builds
-Build/*
+FateFindWally/Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
-!Build/*/
-Build/*/**
-!Build/*/PakBlacklist*.txt
+!FateFindWally/Build/*/
+FateFindWally/Build/*/**
+!FateFindWally/Build/*/PakBlacklist*.txt
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
