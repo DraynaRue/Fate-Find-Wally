@@ -3,7 +3,6 @@
 #include "WallyCharacter.h"
 #include "Components/CapsuleComponent.h"
 #include "Components/PrimitiveComponent.h"
-
 #include "Camera/CameraComponent.h"
 #include "Engine.h"
 
@@ -20,36 +19,16 @@ AWallyCharacter::AWallyCharacter()
 void AWallyCharacter::BeginPlay()
 {
 	Super::BeginPlay();
+	this->GetCapsuleComponent()->OnComponentHit.AddDynamic(this, &AWallyCharacter::OnMyHit);
 	SetActorLocation(SpawnLocations[FMath::RandRange(0, 4)]->GetActorLocation());
-
-	//GetCapsuleComponent()->BeginComponentOverlap()
-	this->GetCapsuleComponent()->BeginComponentOverlap.AddDynamic(this, &AWallyCharacter::OnHit);
-
-	//this->GetCapsuleComponent()
-	//FOverlapInfo a;
-	//this->GetCapsuleComponent()->BeginComponentOverlap(a, true).AddDynamic(this, &AWallyCharacter::OnHit);
 }
 
-
-//DECLARE_DYNAMIC_MULTICAST_DELEGATE_SixParams(FComponentBeginOverlapSignature, UPrimitiveComponent*, OverlappedComponent, AActor*, OtherActor, UPrimitiveComponent*, OtherComp, int32, OtherBodyIndex, bool, bFromSweep, const FHitResult &, SweepResult);
-
-//FComponentBeginOverlapSignature 
-//UPrimitiveComponent* OverlappedComponent, 
-//AActor*, OtherActor, 
-//UPrimitiveComponent*, OtherComp, 
-//int32, OtherBodyIndex, 
-//bool, bFromSweep, 
-//const FHitResult &, SweepResult
-
-void AWallyCharacter::OnHit(class UPrimitiveComponent* HitComp, 
-	                        class AActor* OtherActor, 
-							class UPrimitiveComponent* OtherComp,
-							int32 OtherBodyIndex, 
-						    bool bFromSweep, 
-						    const FHitResult & SweepResult )
-//(const FOverlapInfo& OtherOverlap, bool bDoNotifies, bool bSkipNotifySelf)
+void AWallyCharacter::OnMyHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimitiveComponent* OtherComponent, FVector NormalImpulse, const FHitResult& Hit)
 {
-
+	if (GEngine)
+	{
+		GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("Hit"));
+	}
 }
 
 // Called every frame

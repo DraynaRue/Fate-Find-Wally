@@ -21,19 +21,9 @@ public:
 	// Spawn locations
 	UPROPERTY(Category = Gameplay, EditAnywhere, BlueprintReadWrite)
 		TArray<class AActor*> SpawnLocations;
-	
-	//UFUNCTION(/*custom parameters*/)
-	//	void OnHit(AActor* SelfActor, AActor* OtherActor, FVector NormalImpulse, const FHitResult& Hit);
-
 
 	UFUNCTION()
-	void OnHit(class UPrimitiveComponent* HitComp,
-		class AActor* OtherActor,
-		class UPrimitiveComponent* OtherComp,
-		int32 OtherBodyIndex,
-		bool bFromSweep,
-		const FHitResult & SweepResult);
-	//(const FOverlapInfo& OtherOverlap,bool bDoNotifies, bool bSkipNotifySelf);
+		void OnMyHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit);
 
 protected:
 	// Called when the game starts or when spawned
