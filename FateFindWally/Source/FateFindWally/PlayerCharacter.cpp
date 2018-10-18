@@ -78,7 +78,6 @@ void APlayerCharacter::Tick(float DeltaTime)
 	if (timeRemaining <= 0.00f)
 	{ 
 		UWorld* TheWorld = GetWorld();
-
 		UGameplayStatics::OpenLevel(GetWorld(), "LoseScreen");
 	}
 }

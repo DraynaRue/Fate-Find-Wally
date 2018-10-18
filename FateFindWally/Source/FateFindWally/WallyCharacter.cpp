@@ -5,7 +5,7 @@
 #include "Components/PrimitiveComponent.h"
 #include "Camera/CameraComponent.h"
 #include "Engine.h"
-
+#include "Kismet/GameplayStatics.h"
 
 // Sets default values
 AWallyCharacter::AWallyCharacter()
@@ -25,10 +25,13 @@ void AWallyCharacter::BeginPlay()
 
 void AWallyCharacter::OnMyHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimitiveComponent* OtherComponent, FVector NormalImpulse, const FHitResult& Hit)
 {
-	if (GEngine)
+	UWorld* TheWorld = GetWorld();
+	UGameplayStatics::OpenLevel(GetWorld(), "WinScreen");
+
+	/*if (GEngine)
 	{
 		GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("Hit"));
-	}
+	}*/
 }
 
 // Called every frame
