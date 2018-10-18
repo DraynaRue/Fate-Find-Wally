@@ -19,6 +19,9 @@ public:
 	UPROPERTY(Category = Camera, VisibleAnywhere, BlueprintReadOnly)
 	class UCameraComponent* PlayerCameraComponent;
 
+	UPROPERTY(Category = Gameplay, EditAnywhere, BlueprintReadWrite)
+	float timeRemaining;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
