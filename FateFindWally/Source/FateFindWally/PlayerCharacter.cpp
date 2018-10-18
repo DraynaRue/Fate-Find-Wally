@@ -6,6 +6,7 @@
 #include "Components/CapsuleComponent.h"
 #include "Components/InputComponent.h"
 #include "GameFramework/InputSettings.h"
+#include "Kismet/GameplayStatics.h"
 
 // Sets default values
 APlayerCharacter::APlayerCharacter()
@@ -72,6 +73,13 @@ void APlayerCharacter::Tick(float DeltaTime)
 	else if (FDateTime().Now().GetSecond() >= 59.00f)
 	{
 		startTime = 1.00f;
+	}
+
+	if (timeRemaining <= 0.00f)
+	{ 
+		UWorld* TheWorld = GetWorld();
+
+		UGameplayStatics::OpenLevel(GetWorld(), "LoseScreen");
 	}
 }
 
