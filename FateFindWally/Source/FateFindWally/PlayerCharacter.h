@@ -23,6 +23,9 @@ public:
 	float timeRemaining;
 
 protected:
+	float startTime;
+	float currentTime;
+
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 

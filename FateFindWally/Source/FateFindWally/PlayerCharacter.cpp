@@ -28,6 +28,7 @@ void APlayerCharacter::BeginPlay()
 {
 	Super::BeginPlay();
 	
+	startTime = FDateTime().Now().GetSecond();
 }
 
 void APlayerCharacter::MoveForward(float val)
@@ -61,6 +62,17 @@ void APlayerCharacter::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+	currentTime = FDateTime().Now().GetSecond();
+
+	if (currentTime - startTime >= 1.00f && FDateTime().Now().GetSecond() < 59.00f)
+	{
+		startTime = FDateTime().Now().GetSecond();
+		timeRemaining--;
+	}
+	else if (FDateTime().Now().GetSecond() >= 59.00f)
+	{
+		startTime = 1.00f;
+	}
 }
 
 // Called to bind functionality to input
