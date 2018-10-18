@@ -6,6 +6,7 @@
 #include "Components/CapsuleComponent.h"
 #include "Components/InputComponent.h"
 #include "GameFramework/InputSettings.h"
+#include "Kismet/GameplayStatics.h"
 
 // Sets default values
 APlayerCharacter::APlayerCharacter()
@@ -28,6 +29,7 @@ void APlayerCharacter::BeginPlay()
 {
 	Super::BeginPlay();
 	
+	startTime = FDateTime().Now().GetSecond();
 }
 
 void APlayerCharacter::MoveForward(float val)
@@ -61,6 +63,24 @@ void APlayerCharacter::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+	currentTime = FDateTime().Now().GetSecond();
+
+	if (currentTime - startTime >= 1.00f && FDateTime().Now().GetSecond() < 59.00f)
+	{
+		startTime = FDateTime().Now().GetSecond();
+		timeRemaining--;
+	}
+	else if (FDateTime().Now().GetSecond() >= 59.00f)
+	{
+		startTime = 1.00f;
+	}
+
+	if (timeRemaining <= 0.00f)
+	{ 
+		UWorld* TheWorld = GetWorld();
+
+		UGameplayStatics::OpenLevel(GetWorld(), "LoseScreen");
+	}
 }
 
 // Called to bind functionality to input
